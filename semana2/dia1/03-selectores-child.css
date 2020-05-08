@@ -1,0 +1,22 @@
+li:nth-child(3)
+{
+    color: chocolate;
+}
+p:first-child{
+    color: coral;
+}
+p:last-child{
+    color: yellowgreen;
+}
+tbody tr:nth-child(odd){
+    background: yellowgreen;
+}
+tr:nth-child(even){
+    background: skyblue;
+}
+thead>tr{
+    background: thistle;
+}
+h4:not(.esteno){
+    color: teal;
+}

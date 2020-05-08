@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: moccasin;
+    color: whitesmoke;
+}
+#contenedor{
+    background-color: goldenrod;
+}
+
+#contenedor
+{
+    width: 600px;
+    background-color: violet;
+}
+#caja-1{
+    /* float: left;
+     */
+     width: 140px;
+     height: 50px;
+     float: left;
+     background-color: turquoise;
+}
+#caja-2{
+    /* float: left;
+     */
+     width: 140px;
+     height: 50px;
+     float: left;
+     background-color: turquoise;
+}
+#caja-3{
+    /* float: left;
+     */
+     width: 140px;
+     height: 50px;
+     float: left;
+     background-color: turquoise;
+}
+#caja-4{
+    /* float: left;
+     */
+     width: 140px;
+     height: 50px;
+     float: left;
+     background-color: turquoise;
+}
+.fix{
+    clear: both;
+
+}

@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+hr{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid #ccc;
+}
+.resultado, .menu {
+
+    height: 100vh;
+    float: left;
+}
+.fix{
+    clear: both;
+}
+.menu-botones{
+    margin-top: 40px;
+}
+
+/* resultados */
+.resultado{
+    background-color:#46178f;
+    width: calc(100% - 328px);
+}
+
+/* menu */
+.menu{
+    width: 328px;
+    padding: 60px 40px 30px 40px ;
+    position: relative;
+}
+.menu-titulo{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 35px;
+    color: #333;}
+.boton{
+    color: ivory;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    width: 100%;
+    border: none;
+    padding: 15px 0 ;
+    border-radius: 5px;
+    margin: 25px 0;
+    font-weight: 900;
+    font-size: 22px;
+}
+.success{
+    background-color: #26890c;
+    border-bottom: 4px solid #1c6709;
+}
+.registro{
+    background-color: #1368ce;
+    border-bottom: 4px solid #0e4e9a;
+}
+.parrafo-footer{
+    color: #6e6e6e;
+    text-align: center;
+}
+.morado{
+    color: #46178f;
+    font-weight: 900;
+}
+.menu-footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 0px 40px 20px 40px;
+}
+.resultados-header{
+    position: relative;
+}
+.header-titulo{
+    text-align: center;
+    color: #fff;
+    padding: 20px 0;
+    font-size: 28px;
+}
+.header-icon{
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 11px;
+}
+.boton-feedback{
+    float: right;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    padding: 8px 8px ;
+    border-radius: 5px;
+    margin: 25px 0;
+    font-weight: 500;
+    font-size: 14px;
+    margin-right: 25px;
+    border-bottom: 4px solid #aaa;
+}
+.resultados-lista{
+    padding: 0px 15%;
+}
+.lista-contenedor{
+    list-style: none;
+}
+.nombre-item{
+    float: left;
+}
+.puntaje-item{
+    float: right;
+    font-weight: 800;
+}
+.lista-item{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 15px;
+}
+.ganador{
+    background-color: white;
+    color: #333;
+    border-radius: 8px;
+}
+

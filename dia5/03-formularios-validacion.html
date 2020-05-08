@@ -15,7 +15,7 @@
             <form>
                 <p>
                 <label for="nombre">Nombre: </label>
-                <input type="text" placeholder="Ingrese su nombre :v" id="nombre" /></p>
+                <input type="text" placeholder="Ingrese su nombre :v" id="nombre" required autofocus/></p>
                 <p>
                     <label for="Apelido">Apellido: </label>
                     <input type="text" placeholder="Ejm Sedano" id="Apellido" name="Apellido" value="CS">
@@ -30,7 +30,7 @@
                 </p>
                 <p>
                     <label for="Contrasena">Contraseña: </label>
-                    <input type="password" name="Contrasena" id="Contrasena">
+                    <input type="password" name="Contrasena" id="Contrasena" minlength="3" required pattern="">
                 </p>
                 <p>
                     <label for="email">Email: </label>

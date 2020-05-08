@@ -1,0 +1,37 @@
+*{
+    border: none;
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+}
+.contenedor1{
+    display: flex;
+}
+.contenedor2{
+    display: flex;
+}
+.color-azul{
+    background-color: blue;
+    width: 70%;
+    height: 300px;
+}
+.color-celeoscuro{
+    background-color: darkslategrey;
+    width: 30%;
+    height: 300px;
+}
+.cele-claro{
+    background-color: deeppink;
+    width: 33%;
+    height: 300px;
+}
+.cele-masclaro{
+    background-color: lightseagreen;
+    width: 33%;
+    height: 300px;
+}
+.casiblanco{
+    background-color: lightslategray;
+    width: 34%;
+    height: 300px;
+}
