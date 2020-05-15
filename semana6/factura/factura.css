@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.body{
+   display: flex;
+   height: 100vh;
+   justify-content: center;
+   background-color: whitesmoke;
+}
+
+.main__factura{
+    max-width: 720px;
+    background-color: cadetblue;
+    flex: 1;
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px 30px;
+    
+}
+.main__cabecera{
+    
+    margin-bottom: 20px;
+}
+.main__titulo{
+    text-align: center;
+}
+.main__input{
+    border-radius: 8px;
+}
+.main__datosA, .main__datosB{
+    width: 100%;
+    padding: 10px 15px;
+    
+}
+.main__item{
+    margin-top: 30px;
+
+}
+.main__item input{
+    border-radius: 6px;
+}
+#item__cantidad{
+    width: 40px;
+    
+}
+#item__punit{
+    width: 60px;
+}
+.tabla{
+    width: 600px;
+    text-align: center;
+    padding-left: 10px;
+}
+.tabla__descripcion{
+    width:300px;
+    text-align: left;
+
+}
