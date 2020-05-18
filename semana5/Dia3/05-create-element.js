@@ -1,7 +1,7 @@
 let resultados = {
  "latest": {
-  "confirmed": 3506729,
-  "deaths": 247470,
+  "confirmed": 3662691,
+  "deaths": 257239,
   "recovered": 0
  },
  "locations": [
@@ -11,14 +11,14 @@ let resultados = {
    "country_code": "AF",
    "country_population": 37172386,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.207944Z",
+   "last_updated": "2020-05-07T02:37:18.295937Z",
    "coordinates": {
     "latitude": "33.0",
     "longitude": "65.0"
    },
    "latest": {
-    "confirmed": 2704,
-    "deaths": 85,
+    "confirmed": 3224,
+    "deaths": 95,
     "recovered": 0
    }
   },
@@ -28,13 +28,13 @@ let resultados = {
    "country_code": "AL",
    "country_population": 2866376,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.216391Z",
+   "last_updated": "2020-05-07T02:37:18.301104Z",
    "coordinates": {
     "latitude": "41.1533",
     "longitude": "20.1683"
    },
    "latest": {
-    "confirmed": 795,
+    "confirmed": 820,
     "deaths": 31,
     "recovered": 0
    }
@@ -45,14 +45,14 @@ let resultados = {
    "country_code": "DZ",
    "country_population": 42228429,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.224368Z",
+   "last_updated": "2020-05-07T02:37:18.306239Z",
    "coordinates": {
     "latitude": "28.0339",
     "longitude": "1.6596"
    },
    "latest": {
-    "confirmed": 4474,
-    "deaths": 463,
+    "confirmed": 4838,
+    "deaths": 470,
     "recovered": 0
    }
   },
@@ -62,14 +62,14 @@ let resultados = {
    "country_code": "AD",
    "country_population": 77006,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.231677Z",
+   "last_updated": "2020-05-07T02:37:18.311136Z",
    "coordinates": {
     "latitude": "42.5063",
     "longitude": "1.5218"
    },
    "latest": {
-    "confirmed": 748,
-    "deaths": 45,
+    "confirmed": 751,
+    "deaths": 46,
     "recovered": 0
    }
   },
@@ -79,13 +79,13 @@ let resultados = {
    "country_code": "AO",
    "country_population": 30809762,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.240191Z",
+   "last_updated": "2020-05-07T02:37:18.316118Z",
    "coordinates": {
     "latitude": "-11.2027",
     "longitude": "17.8739"
    },
    "latest": {
-    "confirmed": 35,
+    "confirmed": 36,
     "deaths": 2,
     "recovered": 0
    }
@@ -96,7 +96,7 @@ let resultados = {
    "country_code": "AG",
    "country_population": 96286,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.247458Z",
+   "last_updated": "2020-05-07T02:37:18.321016Z",
    "coordinates": {
     "latitude": "17.0608",
     "longitude": "-61.7964"
@@ -113,14 +113,14 @@ let resultados = {
    "country_code": "AR",
    "country_population": 44494502,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.255024Z",
+   "last_updated": "2020-05-07T02:37:18.326320Z",
    "coordinates": {
     "latitude": "-38.4161",
     "longitude": "-63.6167"
    },
    "latest": {
-    "confirmed": 4783,
-    "deaths": 246,
+    "confirmed": 5020,
+    "deaths": 264,
     "recovered": 0
    }
   },
@@ -130,14 +130,14 @@ let resultados = {
    "country_code": "AM",
    "country_population": 2951776,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.262329Z",
+   "last_updated": "2020-05-07T02:37:18.331280Z",
    "coordinates": {
     "latitude": "40.0691",
     "longitude": "45.0382"
    },
    "latest": {
-    "confirmed": 2386,
-    "deaths": 35,
+    "confirmed": 2619,
+    "deaths": 40,
     "recovered": 0
    }
   },
@@ -147,13 +147,13 @@ let resultados = {
    "country_code": "AU",
    "country_population": 24992369,
    "province": "Australian Capital Territory",
-   "last_updated": "2020-05-05T01:31:13.269732Z",
+   "last_updated": "2020-05-07T02:37:18.336415Z",
    "coordinates": {
     "latitude": "-35.4735",
     "longitude": "149.0124"
    },
    "latest": {
-    "confirmed": 106,
+    "confirmed": 107,
     "deaths": 3,
     "recovered": 0
    }
@@ -164,14 +164,14 @@ let resultados = {
    "country_code": "AU",
    "country_population": 24992369,
    "province": "New South Wales",
-   "last_updated": "2020-05-05T01:31:13.275801Z",
+   "last_updated": "2020-05-07T02:37:18.341504Z",
    "coordinates": {
     "latitude": "-33.8688",
     "longitude": "151.2093"
    },
    "latest": {
-    "confirmed": 3033,
-    "deaths": 42,
+    "confirmed": 3042,
+    "deaths": 44,
     "recovered": 0
    }
   },
@@ -181,7 +181,7 @@ let resultados = {
    "country_code": "AU",
    "country_population": 24992369,
    "province": "Northern Territory",
-   "last_updated": "2020-05-05T01:31:13.281449Z",
+   "last_updated": "2020-05-07T02:37:18.346579Z",
    "coordinates": {
     "latitude": "-12.4634",
     "longitude": "130.8456"
@@ -198,13 +198,13 @@ let resultados = {
    "country_code": "AU",
    "country_population": 24992369,
    "province": "Queensland",
-   "last_updated": "2020-05-05T01:31:13.287239Z",
+   "last_updated": "2020-05-07T02:37:18.351650Z",
    "coordinates": {
     "latitude": "-28.0167",
     "longitude": "153.4"
    },
    "latest": {
-    "confirmed": 1038,
+    "confirmed": 1043,
     "deaths": 6,
     "recovered": 0
    }
@@ -215,7 +215,7 @@ let resultados = {
    "country_code": "AU",
    "country_population": 24992369,
    "province": "South Australia",
-   "last_updated": "2020-05-05T01:31:13.291824Z",
+   "last_updated": "2020-05-07T02:37:18.356717Z",
    "coordinates": {
     "latitude": "-34.9285",
     "longitude": "138.6007"
@@ -232,13 +232,13 @@ let resultados = {
    "country_code": "AU",
    "country_population": 24992369,
    "province": "Tasmania",
-   "last_updated": "2020-05-05T01:31:13.297284Z",
+   "last_updated": "2020-05-07T02:37:18.361730Z",
    "coordinates": {
     "latitude": "-41.4545",
     "longitude": "145.9707"
    },
    "latest": {
-    "confirmed": 221,
+    "confirmed": 225,
     "deaths": 13,
     "recovered": 0
    }
@@ -249,13 +249,13 @@ let resultados = {
    "country_code": "AU",
    "country_population": 24992369,
    "province": "Victoria",
-   "last_updated": "2020-05-05T01:31:13.301845Z",
+   "last_updated": "2020-05-07T02:37:18.366762Z",
    "coordinates": {
     "latitude": "-37.8136",
     "longitude": "144.9631"
    },
    "latest": {
-    "confirmed": 1406,
+    "confirmed": 1440,
     "deaths": 18,
     "recovered": 0
    }
@@ -266,7 +266,7 @@ let resultados = {
    "country_code": "AU",
    "country_population": 24992369,
    "province": "Western Australia",
-   "last_updated": "2020-05-05T01:31:13.308039Z",
+   "last_updated": "2020-05-07T02:37:18.371797Z",
    "coordinates": {
     "latitude": "-31.9505",
     "longitude": "115.8605"
@@ -283,14 +283,14 @@ let resultados = {
    "country_code": "AT",
    "country_population": 8847037,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.313279Z",
+   "last_updated": "2020-05-07T02:37:18.377182Z",
    "coordinates": {
     "latitude": "47.5162",
     "longitude": "14.5501"
    },
    "latest": {
-    "confirmed": 15597,
-    "deaths": 598,
+    "confirmed": 15650,
+    "deaths": 606,
     "recovered": 0
    }
   },
@@ -300,14 +300,14 @@ let resultados = {
    "country_code": "AZ",
    "country_population": 9942334,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.317657Z",
+   "last_updated": "2020-05-07T02:37:18.382123Z",
    "coordinates": {
     "latitude": "40.1431",
     "longitude": "47.5769"
    },
    "latest": {
-    "confirmed": 1932,
-    "deaths": 25,
+    "confirmed": 2060,
+    "deaths": 26,
     "recovered": 0
    }
   },
@@ -317,13 +317,13 @@ let resultados = {
    "country_code": "BS",
    "country_population": 385640,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.322206Z",
+   "last_updated": "2020-05-07T02:37:18.387255Z",
    "coordinates": {
     "latitude": "25.0343",
     "longitude": "-77.3963"
    },
    "latest": {
-    "confirmed": 83,
+    "confirmed": 89,
     "deaths": 11,
     "recovered": 0
    }
@@ -334,13 +334,13 @@ let resultados = {
    "country_code": "BH",
    "country_population": 1569439,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.327153Z",
+   "last_updated": "2020-05-07T02:37:18.392721Z",
    "coordinates": {
     "latitude": "26.0275",
     "longitude": "50.55"
    },
    "latest": {
-    "confirmed": 3383,
+    "confirmed": 3720,
     "deaths": 8,
     "recovered": 0
    }
@@ -351,14 +351,14 @@ let resultados = {
    "country_code": "BD",
    "country_population": 161356039,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.331803Z",
+   "last_updated": "2020-05-07T02:37:18.398123Z",
    "coordinates": {
     "latitude": "23.685",
     "longitude": "90.3563"
    },
    "latest": {
-    "confirmed": 9455,
-    "deaths": 177,
+    "confirmed": 10929,
+    "deaths": 183,
     "recovered": 0
    }
   },
@@ -368,7 +368,7 @@ let resultados = {
    "country_code": "BB",
    "country_population": 286641,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.336361Z",
+   "last_updated": "2020-05-07T02:37:18.403313Z",
    "coordinates": {
     "latitude": "13.1939",
     "longitude": "-59.5432"
@@ -385,14 +385,14 @@ let resultados = {
    "country_code": "BY",
    "country_population": 9485386,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.340861Z",
+   "last_updated": "2020-05-07T02:37:18.408459Z",
    "coordinates": {
     "latitude": "53.7098",
     "longitude": "27.9534"
    },
    "latest": {
-    "confirmed": 16705,
-    "deaths": 99,
+    "confirmed": 18350,
+    "deaths": 107,
     "recovered": 0
    }
   },
@@ -402,14 +402,14 @@ let resultados = {
    "country_code": "BE",
    "country_population": 11422068,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.347277Z",
+   "last_updated": "2020-05-07T02:37:18.413927Z",
    "coordinates": {
     "latitude": "50.8333",
     "longitude": "4.0"
    },
    "latest": {
-    "confirmed": 49906,
-    "deaths": 7844,
+    "confirmed": 50509,
+    "deaths": 8016,
     "recovered": 0
    }
   },
@@ -419,13 +419,13 @@ let resultados = {
    "country_code": "BJ",
    "country_population": 11485048,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.353377Z",
+   "last_updated": "2020-05-07T02:37:18.419425Z",
    "coordinates": {
     "latitude": "9.3077",
     "longitude": "2.3158"
    },
    "latest": {
-    "confirmed": 90,
+    "confirmed": 96,
     "deaths": 2,
     "recovered": 0
    }
@@ -436,7 +436,7 @@ let resultados = {
    "country_code": "BT",
    "country_population": 754394,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.359014Z",
+   "last_updated": "2020-05-07T02:37:18.424510Z",
    "coordinates": {
     "latitude": "27.5142",
     "longitude": "90.4336"
@@ -453,14 +453,14 @@ let resultados = {
    "country_code": "BO",
    "country_population": 11353142,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.367058Z",
+   "last_updated": "2020-05-07T02:37:18.429715Z",
    "coordinates": {
     "latitude": "-16.2902",
     "longitude": "-63.5887"
    },
    "latest": {
-    "confirmed": 1594,
-    "deaths": 76,
+    "confirmed": 1802,
+    "deaths": 86,
     "recovered": 0
    }
   },
@@ -470,14 +470,14 @@ let resultados = {
    "country_code": "BA",
    "country_population": 3323929,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.389602Z",
+   "last_updated": "2020-05-07T02:37:18.434886Z",
    "coordinates": {
     "latitude": "43.9159",
     "longitude": "17.6791"
    },
    "latest": {
-    "confirmed": 1857,
-    "deaths": 77,
+    "confirmed": 1946,
+    "deaths": 79,
     "recovered": 0
    }
   },
@@ -487,14 +487,14 @@ let resultados = {
    "country_code": "BR",
    "country_population": 209469333,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.404416Z",
+   "last_updated": "2020-05-07T02:37:18.440200Z",
    "coordinates": {
     "latitude": "-14.235",
     "longitude": "-51.9253"
    },
    "latest": {
-    "confirmed": 101826,
-    "deaths": 7051,
+    "confirmed": 115455,
+    "deaths": 7938,
     "recovered": 0
    }
   },
@@ -504,7 +504,7 @@ let resultados = {
    "country_code": "BN",
    "country_population": 428962,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.425419Z",
+   "last_updated": "2020-05-07T02:37:18.445468Z",
    "coordinates": {
     "latitude": "4.5353",
     "longitude": "114.7277"
@@ -521,14 +521,14 @@ let resultados = {
    "country_code": "BG",
    "country_population": 7000039,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.432292Z",
+   "last_updated": "2020-05-07T02:37:18.450688Z",
    "coordinates": {
     "latitude": "42.7339",
     "longitude": "25.4858"
    },
    "latest": {
-    "confirmed": 1618,
-    "deaths": 73,
+    "confirmed": 1704,
+    "deaths": 80,
     "recovered": 0
    }
   },
@@ -538,14 +538,14 @@ let resultados = {
    "country_code": "BF",
    "country_population": 19751535,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.437025Z",
+   "last_updated": "2020-05-07T02:37:18.455650Z",
    "coordinates": {
     "latitude": "12.2383",
     "longitude": "-1.5616"
    },
    "latest": {
-    "confirmed": 662,
-    "deaths": 45,
+    "confirmed": 688,
+    "deaths": 48,
     "recovered": 0
    }
   },
@@ -555,13 +555,13 @@ let resultados = {
    "country_code": "CV",
    "country_population": 543767,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.443809Z",
+   "last_updated": "2020-05-07T02:37:18.460941Z",
    "coordinates": {
     "latitude": "16.5388",
     "longitude": "-23.0418"
    },
    "latest": {
-    "confirmed": 165,
+    "confirmed": 186,
     "deaths": 2,
     "recovered": 0
    }
@@ -572,7 +572,7 @@ let resultados = {
    "country_code": "KH",
    "country_population": 16249798,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.451649Z",
+   "last_updated": "2020-05-07T02:37:18.466211Z",
    "coordinates": {
     "latitude": "11.55",
     "longitude": "104.9167"
@@ -589,13 +589,13 @@ let resultados = {
    "country_code": "CM",
    "country_population": 25216237,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.457981Z",
+   "last_updated": "2020-05-07T02:37:18.471908Z",
    "coordinates": {
     "latitude": "3.848",
     "longitude": "11.5021"
    },
    "latest": {
-    "confirmed": 2077,
+    "confirmed": 2104,
     "deaths": 64,
     "recovered": 0
    }
@@ -606,14 +606,14 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Alberta",
-   "last_updated": "2020-05-05T01:31:13.462813Z",
+   "last_updated": "2020-05-07T02:37:18.477093Z",
    "coordinates": {
     "latitude": "53.9333",
     "longitude": "-116.5765"
    },
    "latest": {
-    "confirmed": 5766,
-    "deaths": 95,
+    "confirmed": 5893,
+    "deaths": 106,
     "recovered": 0
    }
   },
@@ -623,14 +623,14 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "British Columbia",
-   "last_updated": "2020-05-05T01:31:13.467281Z",
+   "last_updated": "2020-05-07T02:37:18.482406Z",
    "coordinates": {
     "latitude": "49.2827",
     "longitude": "-123.1207"
    },
    "latest": {
-    "confirmed": 2171,
-    "deaths": 114,
+    "confirmed": 2232,
+    "deaths": 121,
     "recovered": 0
    }
   },
@@ -640,7 +640,7 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Grand Princess",
-   "last_updated": "2020-05-05T01:31:13.471686Z",
+   "last_updated": "2020-05-07T02:37:18.487571Z",
    "coordinates": {
     "latitude": "37.6489",
     "longitude": "-122.6655"
@@ -657,14 +657,14 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Manitoba",
-   "last_updated": "2020-05-05T01:31:13.476047Z",
+   "last_updated": "2020-05-07T02:37:18.492641Z",
    "coordinates": {
     "latitude": "53.7609",
     "longitude": "-98.8139"
    },
    "latest": {
-    "confirmed": 282,
-    "deaths": 6,
+    "confirmed": 284,
+    "deaths": 7,
     "recovered": 0
    }
   },
@@ -674,13 +674,13 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "New Brunswick",
-   "last_updated": "2020-05-05T01:31:13.480503Z",
+   "last_updated": "2020-05-07T02:37:18.497696Z",
    "coordinates": {
     "latitude": "46.5653",
     "longitude": "-66.4619"
    },
    "latest": {
-    "confirmed": 118,
+    "confirmed": 119,
     "deaths": 0,
     "recovered": 0
    }
@@ -691,7 +691,7 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Newfoundland and Labrador",
-   "last_updated": "2020-05-05T01:31:13.485331Z",
+   "last_updated": "2020-05-07T02:37:18.502779Z",
    "coordinates": {
     "latitude": "53.1355",
     "longitude": "-57.6604"
@@ -708,14 +708,14 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Nova Scotia",
-   "last_updated": "2020-05-05T01:31:13.489938Z",
+   "last_updated": "2020-05-07T02:37:18.507881Z",
    "coordinates": {
     "latitude": "44.682",
     "longitude": "-63.7443"
    },
    "latest": {
-    "confirmed": 971,
-    "deaths": 37,
+    "confirmed": 991,
+    "deaths": 41,
     "recovered": 0
    }
   },
@@ -725,14 +725,14 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Ontario",
-   "last_updated": "2020-05-05T01:31:13.494358Z",
+   "last_updated": "2020-05-07T02:37:18.513011Z",
    "coordinates": {
     "latitude": "51.2538",
     "longitude": "-85.3232"
    },
    "latest": {
-    "confirmed": 18574,
-    "deaths": 1326,
+    "confirmed": 19468,
+    "deaths": 1505,
     "recovered": 0
    }
   },
@@ -742,7 +742,7 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Prince Edward Island",
-   "last_updated": "2020-05-05T01:31:13.498793Z",
+   "last_updated": "2020-05-07T02:37:18.518480Z",
    "coordinates": {
     "latitude": "46.5107",
     "longitude": "-63.4168"
@@ -759,14 +759,14 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Quebec",
-   "last_updated": "2020-05-05T01:31:13.503473Z",
+   "last_updated": "2020-05-07T02:37:18.523566Z",
    "coordinates": {
     "latitude": "52.9399",
     "longitude": "-73.5491"
    },
    "latest": {
-    "confirmed": 31873,
-    "deaths": 2206,
+    "confirmed": 33425,
+    "deaths": 2399,
     "recovered": 0
    }
   },
@@ -776,13 +776,13 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Saskatchewan",
-   "last_updated": "2020-05-05T01:31:13.507906Z",
+   "last_updated": "2020-05-07T02:37:18.528721Z",
    "coordinates": {
     "latitude": "52.9399",
     "longitude": "-106.4509"
    },
    "latest": {
-    "confirmed": 433,
+    "confirmed": 487,
     "deaths": 7,
     "recovered": 0
    }
@@ -793,13 +793,13 @@ let resultados = {
    "country_code": "CF",
    "country_population": 4666377,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.512459Z",
+   "last_updated": "2020-05-07T02:37:18.533968Z",
    "coordinates": {
     "latitude": "6.6111",
     "longitude": "20.9394"
    },
    "latest": {
-    "confirmed": 72,
+    "confirmed": 85,
     "deaths": 0,
     "recovered": 0
    }
@@ -810,14 +810,14 @@ let resultados = {
    "country_code": "TD",
    "country_population": 15477751,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.516990Z",
+   "last_updated": "2020-05-07T02:37:18.539220Z",
    "coordinates": {
     "latitude": "15.4542",
     "longitude": "18.7322"
    },
    "latest": {
-    "confirmed": 117,
-    "deaths": 10,
+    "confirmed": 170,
+    "deaths": 17,
     "recovered": 0
    }
   },
@@ -827,14 +827,14 @@ let resultados = {
    "country_code": "CL",
    "country_population": 18729160,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.521597Z",
+   "last_updated": "2020-05-07T02:37:18.544347Z",
    "coordinates": {
     "latitude": "-35.6751",
     "longitude": "-71.543"
    },
    "latest": {
-    "confirmed": 19663,
-    "deaths": 260,
+    "confirmed": 22016,
+    "deaths": 275,
     "recovered": 0
    }
   },
@@ -844,7 +844,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Anhui",
-   "last_updated": "2020-05-05T01:31:13.526017Z",
+   "last_updated": "2020-05-07T02:37:18.549733Z",
    "coordinates": {
     "latitude": "31.8257",
     "longitude": "117.2264"
@@ -861,7 +861,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Beijing",
-   "last_updated": "2020-05-05T01:31:13.530410Z",
+   "last_updated": "2020-05-07T02:37:18.554916Z",
    "coordinates": {
     "latitude": "40.1824",
     "longitude": "116.4142"
@@ -878,7 +878,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Chongqing",
-   "last_updated": "2020-05-05T01:31:13.534804Z",
+   "last_updated": "2020-05-07T02:37:18.560136Z",
    "coordinates": {
     "latitude": "30.0572",
     "longitude": "107.874"
@@ -895,7 +895,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Fujian",
-   "last_updated": "2020-05-05T01:31:13.539935Z",
+   "last_updated": "2020-05-07T02:37:18.565364Z",
    "coordinates": {
     "latitude": "26.0789",
     "longitude": "117.9874"
@@ -912,7 +912,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Gansu",
-   "last_updated": "2020-05-05T01:31:13.544757Z",
+   "last_updated": "2020-05-07T02:37:18.570536Z",
    "coordinates": {
     "latitude": "37.8099",
     "longitude": "101.0583"
@@ -929,7 +929,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Guangdong",
-   "last_updated": "2020-05-05T01:31:13.549126Z",
+   "last_updated": "2020-05-07T02:37:18.575568Z",
    "coordinates": {
     "latitude": "23.3417",
     "longitude": "113.4244"
@@ -946,7 +946,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Guangxi",
-   "last_updated": "2020-05-05T01:31:13.553580Z",
+   "last_updated": "2020-05-07T02:37:18.580668Z",
    "coordinates": {
     "latitude": "23.8298",
     "longitude": "108.7881"
@@ -963,7 +963,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Guizhou",
-   "last_updated": "2020-05-05T01:31:13.558005Z",
+   "last_updated": "2020-05-07T02:37:18.586194Z",
    "coordinates": {
     "latitude": "26.8154",
     "longitude": "106.8748"
@@ -980,7 +980,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Hainan",
-   "last_updated": "2020-05-05T01:31:13.562454Z",
+   "last_updated": "2020-05-07T02:37:18.591341Z",
    "coordinates": {
     "latitude": "19.1959",
     "longitude": "109.7453"
@@ -997,7 +997,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Hebei",
-   "last_updated": "2020-05-05T01:31:13.566830Z",
+   "last_updated": "2020-05-07T02:37:18.596500Z",
    "coordinates": {
     "latitude": "39.549",
     "longitude": "116.1306"
@@ -1014,7 +1014,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Heilongjiang",
-   "last_updated": "2020-05-05T01:31:13.571188Z",
+   "last_updated": "2020-05-07T02:37:18.601722Z",
    "coordinates": {
     "latitude": "47.862",
     "longitude": "127.7615"
@@ -1031,7 +1031,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Henan",
-   "last_updated": "2020-05-05T01:31:13.575495Z",
+   "last_updated": "2020-05-07T02:37:18.606755Z",
    "coordinates": {
     "latitude": "33.882",
     "longitude": "113.614"
@@ -1048,13 +1048,13 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Hong Kong",
-   "last_updated": "2020-05-05T01:31:13.579821Z",
+   "last_updated": "2020-05-07T02:37:18.611910Z",
    "coordinates": {
     "latitude": "22.3",
     "longitude": "114.2"
    },
    "latest": {
-    "confirmed": 1039,
+    "confirmed": 1040,
     "deaths": 4,
     "recovered": 0
    }
@@ -1065,7 +1065,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Hubei",
-   "last_updated": "2020-05-05T01:31:13.584186Z",
+   "last_updated": "2020-05-07T02:37:18.617078Z",
    "coordinates": {
     "latitude": "30.9756",
     "longitude": "112.2707"
@@ -1082,7 +1082,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Hunan",
-   "last_updated": "2020-05-05T01:31:13.589028Z",
+   "last_updated": "2020-05-07T02:37:18.622243Z",
    "coordinates": {
     "latitude": "27.6104",
     "longitude": "111.7088"
@@ -1099,7 +1099,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Inner Mongolia",
-   "last_updated": "2020-05-05T01:31:13.593605Z",
+   "last_updated": "2020-05-07T02:37:18.627403Z",
    "coordinates": {
     "latitude": "44.0935",
     "longitude": "113.9448"
@@ -1116,7 +1116,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Jiangsu",
-   "last_updated": "2020-05-05T01:31:13.597982Z",
+   "last_updated": "2020-05-07T02:37:18.632800Z",
    "coordinates": {
     "latitude": "32.9711",
     "longitude": "119.455"
@@ -1133,7 +1133,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Jiangxi",
-   "last_updated": "2020-05-05T01:31:13.602494Z",
+   "last_updated": "2020-05-07T02:37:18.638091Z",
    "coordinates": {
     "latitude": "27.614",
     "longitude": "115.7221"
@@ -1150,7 +1150,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Jilin",
-   "last_updated": "2020-05-05T01:31:13.606850Z",
+   "last_updated": "2020-05-07T02:37:18.643112Z",
    "coordinates": {
     "latitude": "43.6661",
     "longitude": "126.1923"
@@ -1167,7 +1167,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Liaoning",
-   "last_updated": "2020-05-05T01:31:13.611249Z",
+   "last_updated": "2020-05-07T02:37:18.648271Z",
    "coordinates": {
     "latitude": "41.2956",
     "longitude": "122.6085"
@@ -1184,7 +1184,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Macau",
-   "last_updated": "2020-05-05T01:31:13.615634Z",
+   "last_updated": "2020-05-07T02:37:18.653975Z",
    "coordinates": {
     "latitude": "22.1667",
     "longitude": "113.55"
@@ -1201,7 +1201,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Ningxia",
-   "last_updated": "2020-05-05T01:31:13.620075Z",
+   "last_updated": "2020-05-07T02:37:18.659307Z",
    "coordinates": {
     "latitude": "37.2692",
     "longitude": "106.1655"
@@ -1218,7 +1218,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Qinghai",
-   "last_updated": "2020-05-05T01:31:13.625559Z",
+   "last_updated": "2020-05-07T02:37:18.664599Z",
    "coordinates": {
     "latitude": "35.7452",
     "longitude": "95.9956"
@@ -1235,13 +1235,13 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Shaanxi",
-   "last_updated": "2020-05-05T01:31:13.629980Z",
+   "last_updated": "2020-05-07T02:37:18.669749Z",
    "coordinates": {
     "latitude": "35.1917",
     "longitude": "108.8701"
    },
    "latest": {
-    "confirmed": 306,
+    "confirmed": 308,
     "deaths": 3,
     "recovered": 0
    }
@@ -1252,7 +1252,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Shandong",
-   "last_updated": "2020-05-05T01:31:13.634384Z",
+   "last_updated": "2020-05-07T02:37:18.674838Z",
    "coordinates": {
     "latitude": "36.3427",
     "longitude": "118.1498"
@@ -1269,13 +1269,13 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Shanghai",
-   "last_updated": "2020-05-05T01:31:13.638706Z",
+   "last_updated": "2020-05-07T02:37:18.679675Z",
    "coordinates": {
     "latitude": "31.202",
     "longitude": "121.4491"
    },
    "latest": {
-    "confirmed": 655,
+    "confirmed": 656,
     "deaths": 7,
     "recovered": 0
    }
@@ -1286,7 +1286,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Shanxi",
-   "last_updated": "2020-05-05T01:31:13.643207Z",
+   "last_updated": "2020-05-07T02:37:18.684615Z",
    "coordinates": {
     "latitude": "37.5777",
     "longitude": "112.2922"
@@ -1303,7 +1303,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Sichuan",
-   "last_updated": "2020-05-05T01:31:13.647532Z",
+   "last_updated": "2020-05-07T02:37:18.689732Z",
    "coordinates": {
     "latitude": "30.6171",
     "longitude": "102.7103"
@@ -1320,7 +1320,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Tianjin",
-   "last_updated": "2020-05-05T01:31:13.652111Z",
+   "last_updated": "2020-05-07T02:37:18.694993Z",
    "coordinates": {
     "latitude": "39.3054",
     "longitude": "117.323"
@@ -1337,7 +1337,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Tibet",
-   "last_updated": "2020-05-05T01:31:13.659248Z",
+   "last_updated": "2020-05-07T02:37:18.700375Z",
    "coordinates": {
     "latitude": "31.6927",
     "longitude": "88.0924"
@@ -1354,7 +1354,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Xinjiang",
-   "last_updated": "2020-05-05T01:31:13.667410Z",
+   "last_updated": "2020-05-07T02:37:18.705531Z",
    "coordinates": {
     "latitude": "41.1129",
     "longitude": "85.2401"
@@ -1371,7 +1371,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Yunnan",
-   "last_updated": "2020-05-05T01:31:13.672376Z",
+   "last_updated": "2020-05-07T02:37:18.710758Z",
    "coordinates": {
     "latitude": "24.974",
     "longitude": "101.487"
@@ -1388,7 +1388,7 @@ let resultados = {
    "country_code": "CN",
    "country_population": 1392730000,
    "province": "Zhejiang",
-   "last_updated": "2020-05-05T01:31:13.682732Z",
+   "last_updated": "2020-05-07T02:37:18.716039Z",
    "coordinates": {
     "latitude": "29.1832",
     "longitude": "120.0934"
@@ -1405,14 +1405,14 @@ let resultados = {
    "country_code": "CO",
    "country_population": 49648685,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.693030Z",
+   "last_updated": "2020-05-07T02:37:18.721133Z",
    "coordinates": {
     "latitude": "4.5709",
     "longitude": "-74.2973"
    },
    "latest": {
-    "confirmed": 7668,
-    "deaths": 340,
+    "confirmed": 8613,
+    "deaths": 378,
     "recovered": 0
    }
   },
@@ -1422,14 +1422,14 @@ let resultados = {
    "country_code": "CG",
    "country_population": 5244363,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.703545Z",
+   "last_updated": "2020-05-07T02:37:18.726275Z",
    "coordinates": {
     "latitude": "-4.0383",
     "longitude": "21.7587"
    },
    "latest": {
-    "confirmed": 229,
-    "deaths": 9,
+    "confirmed": 236,
+    "deaths": 10,
     "recovered": 0
    }
   },
@@ -1439,14 +1439,14 @@ let resultados = {
    "country_code": "CD",
    "country_population": 84068091,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.713909Z",
+   "last_updated": "2020-05-07T02:37:18.731114Z",
    "coordinates": {
     "latitude": "-4.0383",
     "longitude": "21.7587"
    },
    "latest": {
-    "confirmed": 674,
-    "deaths": 33,
+    "confirmed": 705,
+    "deaths": 34,
     "recovered": 0
    }
   },
@@ -1456,13 +1456,13 @@ let resultados = {
    "country_code": "CR",
    "country_population": 4999441,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.723919Z",
+   "last_updated": "2020-05-07T02:37:18.736457Z",
    "coordinates": {
     "latitude": "9.7489",
     "longitude": "-83.7534"
    },
    "latest": {
-    "confirmed": 739,
+    "confirmed": 755,
     "deaths": 6,
     "recovered": 0
    }
@@ -1473,14 +1473,14 @@ let resultados = {
    "country_code": "CI",
    "country_population": 25069229,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.734567Z",
+   "last_updated": "2020-05-07T02:37:18.741978Z",
    "coordinates": {
     "latitude": "7.54",
     "longitude": "-5.5471"
    },
    "latest": {
-    "confirmed": 1398,
-    "deaths": 17,
+    "confirmed": 1464,
+    "deaths": 18,
     "recovered": 0
    }
   },
@@ -1490,14 +1490,14 @@ let resultados = {
    "country_code": "HR",
    "country_population": 4089400,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.745303Z",
+   "last_updated": "2020-05-07T02:37:18.747261Z",
    "coordinates": {
     "latitude": "45.1",
     "longitude": "15.2"
    },
    "latest": {
-    "confirmed": 2096,
-    "deaths": 79,
+    "confirmed": 2112,
+    "deaths": 83,
     "recovered": 0
    }
   },
@@ -1507,7 +1507,7 @@ let resultados = {
    "country_code": "XX",
    "country_population": null,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.755407Z",
+   "last_updated": "2020-05-07T02:37:18.752373Z",
    "coordinates": {
     "latitude": "0.0",
     "longitude": "0.0"
@@ -1524,14 +1524,14 @@ let resultados = {
    "country_code": "CU",
    "country_population": 11338138,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.765672Z",
+   "last_updated": "2020-05-07T02:37:18.757762Z",
    "coordinates": {
     "latitude": "22.0",
     "longitude": "-80.0"
    },
    "latest": {
-    "confirmed": 1649,
-    "deaths": 67,
+    "confirmed": 1685,
+    "deaths": 69,
     "recovered": 0
    }
   },
@@ -1541,13 +1541,13 @@ let resultados = {
    "country_code": "CY",
    "country_population": 1189265,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.776326Z",
+   "last_updated": "2020-05-07T02:37:18.763094Z",
    "coordinates": {
     "latitude": "35.1264",
     "longitude": "33.4299"
    },
    "latest": {
-    "confirmed": 872,
+    "confirmed": 878,
     "deaths": 15,
     "recovered": 0
    }
@@ -1558,14 +1558,14 @@ let resultados = {
    "country_code": "CZ",
    "country_population": 10625695,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.783856Z",
+   "last_updated": "2020-05-07T02:37:18.768060Z",
    "coordinates": {
     "latitude": "49.8175",
     "longitude": "15.473"
    },
    "latest": {
-    "confirmed": 7781,
-    "deaths": 248,
+    "confirmed": 7896,
+    "deaths": 257,
     "recovered": 0
    }
   },
@@ -1575,7 +1575,7 @@ let resultados = {
    "country_code": "DK",
    "country_population": 5797446,
    "province": "Faroe Islands",
-   "last_updated": "2020-05-05T01:31:13.788202Z",
+   "last_updated": "2020-05-07T02:37:18.773442Z",
    "coordinates": {
     "latitude": "61.8926",
     "longitude": "-6.9118"
@@ -1592,7 +1592,7 @@ let resultados = {
    "country_code": "DK",
    "country_population": 5797446,
    "province": "Greenland",
-   "last_updated": "2020-05-05T01:31:13.792592Z",
+   "last_updated": "2020-05-07T02:37:18.778580Z",
    "coordinates": {
     "latitude": "71.7069",
     "longitude": "-42.6043"
@@ -1609,14 +1609,14 @@ let resultados = {
    "country_code": "DK",
    "country_population": 5797446,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.797043Z",
+   "last_updated": "2020-05-07T02:37:18.783688Z",
    "coordinates": {
     "latitude": "56.2639",
     "longitude": "9.5018"
    },
    "latest": {
-    "confirmed": 9523,
-    "deaths": 484,
+    "confirmed": 9821,
+    "deaths": 503,
     "recovered": 0
    }
   },
@@ -1626,13 +1626,13 @@ let resultados = {
    "country_code": "DJ",
    "country_population": 958920,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.801472Z",
+   "last_updated": "2020-05-07T02:37:18.789047Z",
    "coordinates": {
     "latitude": "11.8251",
     "longitude": "42.5903"
    },
    "latest": {
-    "confirmed": 1112,
+    "confirmed": 1120,
     "deaths": 2,
     "recovered": 0
    }
@@ -1643,14 +1643,14 @@ let resultados = {
    "country_code": "DO",
    "country_population": 10627165,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.805815Z",
+   "last_updated": "2020-05-07T02:37:18.794891Z",
    "coordinates": {
     "latitude": "18.7357",
     "longitude": "-70.1627"
    },
    "latest": {
-    "confirmed": 7954,
-    "deaths": 333,
+    "confirmed": 8480,
+    "deaths": 354,
     "recovered": 0
    }
   },
@@ -1660,14 +1660,14 @@ let resultados = {
    "country_code": "EC",
    "country_population": 17084357,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.811831Z",
+   "last_updated": "2020-05-07T02:37:18.799963Z",
    "coordinates": {
     "latitude": "-1.8312",
     "longitude": "-78.1834"
    },
    "latest": {
-    "confirmed": 29538,
-    "deaths": 1564,
+    "confirmed": 31881,
+    "deaths": 1569,
     "recovered": 0
    }
   },
@@ -1677,14 +1677,14 @@ let resultados = {
    "country_code": "EG",
    "country_population": 98423595,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.816195Z",
+   "last_updated": "2020-05-07T02:37:18.805572Z",
    "coordinates": {
     "latitude": "26.0",
     "longitude": "30.0"
    },
    "latest": {
-    "confirmed": 6465,
-    "deaths": 429,
+    "confirmed": 7201,
+    "deaths": 452,
     "recovered": 0
    }
   },
@@ -1694,14 +1694,14 @@ let resultados = {
    "country_code": "SV",
    "country_population": 6420744,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.820537Z",
+   "last_updated": "2020-05-07T02:37:18.810956Z",
    "coordinates": {
     "latitude": "13.7942",
     "longitude": "-88.8965"
    },
    "latest": {
-    "confirmed": 490,
-    "deaths": 11,
+    "confirmed": 587,
+    "deaths": 14,
     "recovered": 0
    }
   },
@@ -1711,14 +1711,14 @@ let resultados = {
    "country_code": "GQ",
    "country_population": 1308974,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.825427Z",
+   "last_updated": "2020-05-07T02:37:18.816127Z",
    "coordinates": {
     "latitude": "1.5",
     "longitude": "10.0"
    },
    "latest": {
     "confirmed": 315,
-    "deaths": 1,
+    "deaths": 3,
     "recovered": 0
    }
   },
@@ -1728,7 +1728,7 @@ let resultados = {
    "country_code": "ER",
    "country_population": null,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.832680Z",
+   "last_updated": "2020-05-07T02:37:18.821037Z",
    "coordinates": {
     "latitude": "15.1794",
     "longitude": "39.7823"
@@ -1745,13 +1745,13 @@ let resultados = {
    "country_code": "EE",
    "country_population": 1320884,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.839886Z",
+   "last_updated": "2020-05-07T02:37:18.826164Z",
    "coordinates": {
     "latitude": "58.5953",
     "longitude": "25.0136"
    },
    "latest": {
-    "confirmed": 1700,
+    "confirmed": 1711,
     "deaths": 55,
     "recovered": 0
    }
@@ -1762,13 +1762,13 @@ let resultados = {
    "country_code": "SZ",
    "country_population": 1136191,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.846048Z",
+   "last_updated": "2020-05-07T02:37:18.831392Z",
    "coordinates": {
     "latitude": "-26.5225",
     "longitude": "31.4659"
    },
    "latest": {
-    "confirmed": 112,
+    "confirmed": 119,
     "deaths": 1,
     "recovered": 0
    }
@@ -1779,14 +1779,14 @@ let resultados = {
    "country_code": "ET",
    "country_population": 109224559,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.851163Z",
+   "last_updated": "2020-05-07T02:37:18.836282Z",
    "coordinates": {
     "latitude": "9.145",
     "longitude": "40.4897"
    },
    "latest": {
-    "confirmed": 135,
-    "deaths": 3,
+    "confirmed": 145,
+    "deaths": 4,
     "recovered": 0
    }
   },
@@ -1796,7 +1796,7 @@ let resultados = {
    "country_code": "FJ",
    "country_population": 883483,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.856005Z",
+   "last_updated": "2020-05-07T02:37:18.841222Z",
    "coordinates": {
     "latitude": "-17.7134",
     "longitude": "178.065"
@@ -1813,14 +1813,14 @@ let resultados = {
    "country_code": "FI",
    "country_population": 5518050,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.865006Z",
+   "last_updated": "2020-05-07T02:37:18.846347Z",
    "coordinates": {
     "latitude": "64.0",
     "longitude": "26.0"
    },
    "latest": {
-    "confirmed": 5254,
-    "deaths": 230,
+    "confirmed": 5412,
+    "deaths": 246,
     "recovered": 0
    }
   },
@@ -1830,13 +1830,13 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "French Guiana",
-   "last_updated": "2020-05-05T01:31:13.871090Z",
+   "last_updated": "2020-05-07T02:37:18.851743Z",
    "coordinates": {
     "latitude": "3.9339",
     "longitude": "-53.1258"
    },
    "latest": {
-    "confirmed": 128,
+    "confirmed": 133,
     "deaths": 1,
     "recovered": 0
    }
@@ -1847,13 +1847,13 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "French Polynesia",
-   "last_updated": "2020-05-05T01:31:13.875802Z",
+   "last_updated": "2020-05-07T02:37:18.857796Z",
    "coordinates": {
     "latitude": "-17.6797",
     "longitude": "149.4068"
    },
    "latest": {
-    "confirmed": 58,
+    "confirmed": 60,
     "deaths": 0,
     "recovered": 0
    }
@@ -1864,7 +1864,7 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "Guadeloupe",
-   "last_updated": "2020-05-05T01:31:13.880180Z",
+   "last_updated": "2020-05-07T02:37:18.863066Z",
    "coordinates": {
     "latitude": "16.25",
     "longitude": "-61.5833"
@@ -1881,14 +1881,14 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "Mayotte",
-   "last_updated": "2020-05-05T01:31:13.884759Z",
+   "last_updated": "2020-05-07T02:37:18.867982Z",
    "coordinates": {
     "latitude": "-12.8275",
     "longitude": "45.1662"
    },
    "latest": {
-    "confirmed": 650,
-    "deaths": 6,
+    "confirmed": 739,
+    "deaths": 9,
     "recovered": 0
    }
   },
@@ -1898,7 +1898,7 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "New Caledonia",
-   "last_updated": "2020-05-05T01:31:13.891234Z",
+   "last_updated": "2020-05-07T02:37:18.873228Z",
    "coordinates": {
     "latitude": "-20.9043",
     "longitude": "165.618"
@@ -1915,13 +1915,13 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "Reunion",
-   "last_updated": "2020-05-05T01:31:13.896395Z",
+   "last_updated": "2020-05-07T02:37:18.877945Z",
    "coordinates": {
     "latitude": "-21.1351",
     "longitude": "55.2471"
    },
    "latest": {
-    "confirmed": 423,
+    "confirmed": 424,
     "deaths": 0,
     "recovered": 0
    }
@@ -1932,7 +1932,7 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "Saint Barthelemy",
-   "last_updated": "2020-05-05T01:31:13.902972Z",
+   "last_updated": "2020-05-07T02:37:18.882904Z",
    "coordinates": {
     "latitude": "17.9",
     "longitude": "-62.8333"
@@ -1949,7 +1949,7 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "St Martin",
-   "last_updated": "2020-05-05T01:31:13.908726Z",
+   "last_updated": "2020-05-07T02:37:18.888341Z",
    "coordinates": {
     "latitude": "18.0708",
     "longitude": "-63.0501"
@@ -1966,13 +1966,13 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "Martinique",
-   "last_updated": "2020-05-05T01:31:13.914979Z",
+   "last_updated": "2020-05-07T02:37:18.893997Z",
    "coordinates": {
     "latitude": "14.6415",
     "longitude": "-61.0242"
    },
    "latest": {
-    "confirmed": 179,
+    "confirmed": 181,
     "deaths": 14,
     "recovered": 0
    }
@@ -1983,14 +1983,14 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.919492Z",
+   "last_updated": "2020-05-07T02:37:18.899186Z",
    "coordinates": {
     "latitude": "46.2276",
     "longitude": "2.2137"
    },
    "latest": {
-    "confirmed": 167272,
-    "deaths": 24864,
+    "confirmed": 168935,
+    "deaths": 25498,
     "recovered": 0
    }
   },
@@ -2000,14 +2000,14 @@ let resultados = {
    "country_code": "GA",
    "country_population": 2119275,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.924253Z",
+   "last_updated": "2020-05-07T02:37:18.904922Z",
    "coordinates": {
     "latitude": "-0.8037",
     "longitude": "11.6094"
    },
    "latest": {
-    "confirmed": 335,
-    "deaths": 5,
+    "confirmed": 397,
+    "deaths": 6,
     "recovered": 0
    }
   },
@@ -2017,7 +2017,7 @@ let resultados = {
    "country_code": "GM",
    "country_population": 2280102,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.928892Z",
+   "last_updated": "2020-05-07T02:37:18.910163Z",
    "coordinates": {
     "latitude": "13.4432",
     "longitude": "-15.3101"
@@ -2034,13 +2034,13 @@ let resultados = {
    "country_code": "GE",
    "country_population": 3731000,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.935392Z",
+   "last_updated": "2020-05-07T02:37:18.915038Z",
    "coordinates": {
     "latitude": "42.3154",
     "longitude": "43.3569"
    },
    "latest": {
-    "confirmed": 589,
+    "confirmed": 604,
     "deaths": 9,
     "recovered": 0
    }
@@ -2051,14 +2051,14 @@ let resultados = {
    "country_code": "DE",
    "country_population": 82927922,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.940153Z",
+   "last_updated": "2020-05-07T02:37:18.922273Z",
    "coordinates": {
     "latitude": "51.0",
     "longitude": "9.0"
    },
    "latest": {
-    "confirmed": 165664,
-    "deaths": 6866,
+    "confirmed": 167007,
+    "deaths": 6993,
     "recovered": 0
    }
   },
@@ -2068,13 +2068,13 @@ let resultados = {
    "country_code": "GH",
    "country_population": 29767108,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.946666Z",
+   "last_updated": "2020-05-07T02:37:18.927252Z",
    "coordinates": {
     "latitude": "7.9465",
     "longitude": "-1.0232"
    },
    "latest": {
-    "confirmed": 2169,
+    "confirmed": 2719,
     "deaths": 18,
     "recovered": 0
    }
@@ -2085,14 +2085,14 @@ let resultados = {
    "country_code": "GR",
    "country_population": 10727668,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.951742Z",
+   "last_updated": "2020-05-07T02:37:18.932621Z",
    "coordinates": {
     "latitude": "39.0742",
     "longitude": "21.8243"
    },
    "latest": {
-    "confirmed": 2626,
-    "deaths": 144,
+    "confirmed": 2642,
+    "deaths": 146,
     "recovered": 0
    }
   },
@@ -2102,14 +2102,14 @@ let resultados = {
    "country_code": "GT",
    "country_population": 17247807,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.957553Z",
+   "last_updated": "2020-05-07T02:37:18.938778Z",
    "coordinates": {
     "latitude": "15.7835",
     "longitude": "-90.2308"
    },
    "latest": {
-    "confirmed": 703,
-    "deaths": 17,
+    "confirmed": 763,
+    "deaths": 19,
     "recovered": 0
    }
   },
@@ -2119,14 +2119,14 @@ let resultados = {
    "country_code": "GN",
    "country_population": 12414318,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.962904Z",
+   "last_updated": "2020-05-07T02:37:18.946785Z",
    "coordinates": {
     "latitude": "9.9456",
     "longitude": "-9.6966"
    },
    "latest": {
-    "confirmed": 1586,
-    "deaths": 7,
+    "confirmed": 1811,
+    "deaths": 10,
     "recovered": 0
    }
   },
@@ -2136,14 +2136,14 @@ let resultados = {
    "country_code": "GY",
    "country_population": 779004,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.968403Z",
+   "last_updated": "2020-05-07T02:37:18.953733Z",
    "coordinates": {
     "latitude": "5.0",
     "longitude": "-58.75"
    },
    "latest": {
-    "confirmed": 82,
-    "deaths": 9,
+    "confirmed": 93,
+    "deaths": 10,
     "recovered": 0
    }
   },
@@ -2153,14 +2153,14 @@ let resultados = {
    "country_code": "HT",
    "country_population": 11123176,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.974177Z",
+   "last_updated": "2020-05-07T02:37:18.959623Z",
    "coordinates": {
     "latitude": "18.9712",
     "longitude": "-72.2852"
    },
    "latest": {
-    "confirmed": 88,
-    "deaths": 9,
+    "confirmed": 101,
+    "deaths": 12,
     "recovered": 0
    }
   },
@@ -2170,7 +2170,7 @@ let resultados = {
    "country_code": "VA",
    "country_population": 921,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.979296Z",
+   "last_updated": "2020-05-07T02:37:18.965715Z",
    "coordinates": {
     "latitude": "41.9029",
     "longitude": "12.4534"
@@ -2187,14 +2187,14 @@ let resultados = {
    "country_code": "HN",
    "country_population": 9587522,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.985456Z",
+   "last_updated": "2020-05-07T02:37:18.970929Z",
    "coordinates": {
     "latitude": "15.2",
     "longitude": "-86.2419"
    },
    "latest": {
-    "confirmed": 1055,
-    "deaths": 82,
+    "confirmed": 1270,
+    "deaths": 93,
     "recovered": 0
    }
   },
@@ -2204,14 +2204,14 @@ let resultados = {
    "country_code": "HU",
    "country_population": 9768785,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.990222Z",
+   "last_updated": "2020-05-07T02:37:18.976219Z",
    "coordinates": {
     "latitude": "47.1625",
     "longitude": "19.5033"
    },
    "latest": {
-    "confirmed": 2998,
-    "deaths": 340,
+    "confirmed": 3065,
+    "deaths": 363,
     "recovered": 0
    }
   },
@@ -2221,7 +2221,7 @@ let resultados = {
    "country_code": "IS",
    "country_population": 353574,
    "province": "",
-   "last_updated": "2020-05-05T01:31:13.996633Z",
+   "last_updated": "2020-05-07T02:37:18.981639Z",
    "coordinates": {
     "latitude": "64.9631",
     "longitude": "-19.0208"
@@ -2238,14 +2238,14 @@ let resultados = {
    "country_code": "IN",
    "country_population": 1352617328,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.001204Z",
+   "last_updated": "2020-05-07T02:37:18.986799Z",
    "coordinates": {
     "latitude": "21.0",
     "longitude": "78.0"
    },
    "latest": {
-    "confirmed": 42505,
-    "deaths": 1391,
+    "confirmed": 49400,
+    "deaths": 1693,
     "recovered": 0
    }
   },
@@ -2255,14 +2255,14 @@ let resultados = {
    "country_code": "ID",
    "country_population": 267663435,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.005830Z",
+   "last_updated": "2020-05-07T02:37:18.992039Z",
    "coordinates": {
     "latitude": "-0.7893",
     "longitude": "113.9213"
    },
    "latest": {
-    "confirmed": 11192,
-    "deaths": 845,
+    "confirmed": 12071,
+    "deaths": 872,
     "recovered": 0
    }
   },
@@ -2272,14 +2272,14 @@ let resultados = {
    "country_code": "IR",
    "country_population": 81800269,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.010457Z",
+   "last_updated": "2020-05-07T02:37:18.997457Z",
    "coordinates": {
     "latitude": "32.0",
     "longitude": "53.0"
    },
    "latest": {
-    "confirmed": 97424,
-    "deaths": 6203,
+    "confirmed": 99970,
+    "deaths": 6340,
     "recovered": 0
    }
   },
@@ -2289,14 +2289,14 @@ let resultados = {
    "country_code": "IQ",
    "country_population": 38433600,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.014826Z",
+   "last_updated": "2020-05-07T02:37:19.002747Z",
    "coordinates": {
     "latitude": "33.0",
     "longitude": "44.0"
    },
    "latest": {
-    "confirmed": 2296,
-    "deaths": 97,
+    "confirmed": 2431,
+    "deaths": 102,
     "recovered": 0
    }
   },
@@ -2306,14 +2306,14 @@ let resultados = {
    "country_code": "IE",
    "country_population": 4853506,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.019290Z",
+   "last_updated": "2020-05-07T02:37:19.007993Z",
    "coordinates": {
     "latitude": "53.1424",
     "longitude": "-7.6921"
    },
    "latest": {
-    "confirmed": 21506,
-    "deaths": 1303,
+    "confirmed": 21983,
+    "deaths": 1339,
     "recovered": 0
    }
   },
@@ -2323,14 +2323,14 @@ let resultados = {
    "country_code": "IL",
    "country_population": 8883800,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.025682Z",
+   "last_updated": "2020-05-07T02:37:19.013509Z",
    "coordinates": {
     "latitude": "31.0",
     "longitude": "35.0"
    },
    "latest": {
-    "confirmed": 16208,
-    "deaths": 232,
+    "confirmed": 16289,
+    "deaths": 238,
     "recovered": 0
    }
   },
@@ -2340,14 +2340,14 @@ let resultados = {
    "country_code": "IT",
    "country_population": 60431283,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.031681Z",
+   "last_updated": "2020-05-07T02:37:19.018904Z",
    "coordinates": {
     "latitude": "43.0",
     "longitude": "12.0"
    },
    "latest": {
-    "confirmed": 210717,
-    "deaths": 28884,
+    "confirmed": 213013,
+    "deaths": 29315,
     "recovered": 0
    }
   },
@@ -2357,13 +2357,13 @@ let resultados = {
    "country_code": "JM",
    "country_population": 2934855,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.036199Z",
+   "last_updated": "2020-05-07T02:37:19.024561Z",
    "coordinates": {
     "latitude": "18.1096",
     "longitude": "-77.2975"
    },
    "latest": {
-    "confirmed": 469,
+    "confirmed": 473,
     "deaths": 9,
     "recovered": 0
    }
@@ -2374,14 +2374,14 @@ let resultados = {
    "country_code": "JP",
    "country_population": 126529100,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.041741Z",
+   "last_updated": "2020-05-07T02:37:19.030808Z",
    "coordinates": {
     "latitude": "36.0",
     "longitude": "138.0"
    },
    "latest": {
-    "confirmed": 14877,
-    "deaths": 487,
+    "confirmed": 15253,
+    "deaths": 556,
     "recovered": 0
    }
   },
@@ -2391,13 +2391,13 @@ let resultados = {
    "country_code": "JO",
    "country_population": 9956011,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.048535Z",
+   "last_updated": "2020-05-07T02:37:19.036610Z",
    "coordinates": {
     "latitude": "31.24",
     "longitude": "36.51"
    },
    "latest": {
-    "confirmed": 461,
+    "confirmed": 471,
     "deaths": 9,
     "recovered": 0
    }
@@ -2408,14 +2408,14 @@ let resultados = {
    "country_code": "KZ",
    "country_population": 18276499,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.053109Z",
+   "last_updated": "2020-05-07T02:37:19.041899Z",
    "coordinates": {
     "latitude": "48.0196",
     "longitude": "66.9237"
    },
    "latest": {
-    "confirmed": 3920,
-    "deaths": 27,
+    "confirmed": 4205,
+    "deaths": 29,
     "recovered": 0
    }
   },
@@ -2425,13 +2425,13 @@ let resultados = {
    "country_code": "KE",
    "country_population": 51393010,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.060015Z",
+   "last_updated": "2020-05-07T02:37:19.047279Z",
    "coordinates": {
     "latitude": "-0.0236",
     "longitude": "37.9062"
    },
    "latest": {
-    "confirmed": 465,
+    "confirmed": 535,
     "deaths": 24,
     "recovered": 0
    }
@@ -2442,14 +2442,14 @@ let resultados = {
    "country_code": "KR",
    "country_population": 51635256,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.067293Z",
+   "last_updated": "2020-05-07T02:37:19.052682Z",
    "coordinates": {
     "latitude": "36.0",
     "longitude": "128.0"
    },
    "latest": {
-    "confirmed": 10801,
-    "deaths": 252,
+    "confirmed": 10806,
+    "deaths": 255,
     "recovered": 0
    }
   },
@@ -2459,14 +2459,14 @@ let resultados = {
    "country_code": "KW",
    "country_population": 4137309,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.073814Z",
+   "last_updated": "2020-05-07T02:37:19.058364Z",
    "coordinates": {
     "latitude": "29.5",
     "longitude": "47.75"
    },
    "latest": {
-    "confirmed": 4983,
-    "deaths": 38,
+    "confirmed": 5804,
+    "deaths": 40,
     "recovered": 0
    }
   },
@@ -2476,14 +2476,14 @@ let resultados = {
    "country_code": "KG",
    "country_population": 6315800,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.081117Z",
+   "last_updated": "2020-05-07T02:37:19.063552Z",
    "coordinates": {
     "latitude": "41.2044",
     "longitude": "74.7661"
    },
    "latest": {
-    "confirmed": 795,
-    "deaths": 10,
+    "confirmed": 843,
+    "deaths": 11,
     "recovered": 0
    }
   },
@@ -2493,14 +2493,14 @@ let resultados = {
    "country_code": "LV",
    "country_population": 1926542,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.088359Z",
+   "last_updated": "2020-05-07T02:37:19.069022Z",
    "coordinates": {
     "latitude": "56.8796",
     "longitude": "24.6032"
    },
    "latest": {
-    "confirmed": 879,
-    "deaths": 16,
+    "confirmed": 896,
+    "deaths": 17,
     "recovered": 0
    }
   },
@@ -2510,13 +2510,13 @@ let resultados = {
    "country_code": "LB",
    "country_population": 6848925,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.095579Z",
+   "last_updated": "2020-05-07T02:37:19.073967Z",
    "coordinates": {
     "latitude": "33.8547",
     "longitude": "35.8623"
    },
    "latest": {
-    "confirmed": 737,
+    "confirmed": 741,
     "deaths": 25,
     "recovered": 0
    }
@@ -2527,14 +2527,14 @@ let resultados = {
    "country_code": "LR",
    "country_population": 4818977,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.103068Z",
+   "last_updated": "2020-05-07T02:37:19.078974Z",
    "coordinates": {
     "latitude": "6.4281",
     "longitude": "-9.4295"
    },
    "latest": {
-    "confirmed": 158,
-    "deaths": 18,
+    "confirmed": 170,
+    "deaths": 20,
     "recovered": 0
    }
   },
@@ -2544,7 +2544,7 @@ let resultados = {
    "country_code": "LI",
    "country_population": 37910,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.110746Z",
+   "last_updated": "2020-05-07T02:37:19.084140Z",
    "coordinates": {
     "latitude": "47.14",
     "longitude": "9.55"
@@ -2561,13 +2561,13 @@ let resultados = {
    "country_code": "LT",
    "country_population": 2789533,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.117889Z",
+   "last_updated": "2020-05-07T02:37:19.089143Z",
    "coordinates": {
     "latitude": "55.1694",
     "longitude": "23.8813"
    },
    "latest": {
-    "confirmed": 1410,
+    "confirmed": 1423,
     "deaths": 46,
     "recovered": 0
    }
@@ -2578,13 +2578,13 @@ let resultados = {
    "country_code": "LU",
    "country_population": 607728,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.125116Z",
+   "last_updated": "2020-05-07T02:37:19.093970Z",
    "coordinates": {
     "latitude": "49.8153",
     "longitude": "6.1296"
    },
    "latest": {
-    "confirmed": 3824,
+    "confirmed": 3840,
     "deaths": 96,
     "recovered": 0
    }
@@ -2595,13 +2595,13 @@ let resultados = {
    "country_code": "MG",
    "country_population": 26262368,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.133830Z",
+   "last_updated": "2020-05-07T02:37:19.098709Z",
    "coordinates": {
     "latitude": "-18.7669",
     "longitude": "46.8691"
    },
    "latest": {
-    "confirmed": 149,
+    "confirmed": 151,
     "deaths": 0,
     "recovered": 0
    }
@@ -2612,14 +2612,14 @@ let resultados = {
    "country_code": "MY",
    "country_population": 31528585,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.140730Z",
+   "last_updated": "2020-05-07T02:37:19.103288Z",
    "coordinates": {
     "latitude": "2.5",
     "longitude": "112.5"
    },
    "latest": {
-    "confirmed": 6298,
-    "deaths": 105,
+    "confirmed": 6383,
+    "deaths": 106,
     "recovered": 0
    }
   },
@@ -2629,14 +2629,14 @@ let resultados = {
    "country_code": "MV",
    "country_population": 515696,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.147356Z",
+   "last_updated": "2020-05-07T02:37:19.107949Z",
    "coordinates": {
     "latitude": "3.2028",
     "longitude": "73.2207"
    },
    "latest": {
-    "confirmed": 527,
-    "deaths": 1,
+    "confirmed": 573,
+    "deaths": 2,
     "recovered": 0
    }
   },
@@ -2646,14 +2646,14 @@ let resultados = {
    "country_code": "MT",
    "country_population": 483530,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.153272Z",
+   "last_updated": "2020-05-07T02:37:19.113170Z",
    "coordinates": {
     "latitude": "35.9375",
     "longitude": "14.3754"
    },
    "latest": {
-    "confirmed": 477,
-    "deaths": 4,
+    "confirmed": 482,
+    "deaths": 5,
     "recovered": 0
    }
   },
@@ -2663,7 +2663,7 @@ let resultados = {
    "country_code": "MR",
    "country_population": 4403319,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.161181Z",
+   "last_updated": "2020-05-07T02:37:19.118437Z",
    "coordinates": {
     "latitude": "21.0079",
     "longitude": "10.9408"
@@ -2680,7 +2680,7 @@ let resultados = {
    "country_code": "MU",
    "country_population": 1265303,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.167839Z",
+   "last_updated": "2020-05-07T02:37:19.123327Z",
    "coordinates": {
     "latitude": "-20.2",
     "longitude": "57.5"
@@ -2697,14 +2697,14 @@ let resultados = {
    "country_code": "MX",
    "country_population": 126190788,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.172378Z",
+   "last_updated": "2020-05-07T02:37:19.127964Z",
    "coordinates": {
     "latitude": "23.6345",
     "longitude": "-102.5528"
    },
    "latest": {
-    "confirmed": 23471,
-    "deaths": 2154,
+    "confirmed": 26025,
+    "deaths": 2507,
     "recovered": 0
    }
   },
@@ -2714,14 +2714,14 @@ let resultados = {
    "country_code": "MD",
    "country_population": 3545883,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.179345Z",
+   "last_updated": "2020-05-07T02:37:19.132686Z",
    "coordinates": {
     "latitude": "47.4116",
     "longitude": "28.3699"
    },
    "latest": {
-    "confirmed": 4121,
-    "deaths": 125,
+    "confirmed": 4363,
+    "deaths": 136,
     "recovered": 0
    }
   },
@@ -2731,7 +2731,7 @@ let resultados = {
    "country_code": "MC",
    "country_population": 38682,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.184388Z",
+   "last_updated": "2020-05-07T02:37:19.137913Z",
    "coordinates": {
     "latitude": "43.7333",
     "longitude": "7.4167"
@@ -2748,13 +2748,13 @@ let resultados = {
    "country_code": "MN",
    "country_population": 3170208,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.189398Z",
+   "last_updated": "2020-05-07T02:37:19.142823Z",
    "coordinates": {
     "latitude": "46.8625",
     "longitude": "103.8467"
    },
    "latest": {
-    "confirmed": 39,
+    "confirmed": 41,
     "deaths": 0,
     "recovered": 0
    }
@@ -2765,13 +2765,13 @@ let resultados = {
    "country_code": "ME",
    "country_population": 622345,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.196638Z",
+   "last_updated": "2020-05-07T02:37:19.147797Z",
    "coordinates": {
     "latitude": "42.5",
     "longitude": "19.3"
    },
    "latest": {
-    "confirmed": 322,
+    "confirmed": 324,
     "deaths": 8,
     "recovered": 0
    }
@@ -2782,14 +2782,14 @@ let resultados = {
    "country_code": "MA",
    "country_population": 36029138,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.201252Z",
+   "last_updated": "2020-05-07T02:37:19.152975Z",
    "coordinates": {
     "latitude": "31.7917",
     "longitude": "-7.0926"
    },
    "latest": {
-    "confirmed": 4903,
-    "deaths": 174,
+    "confirmed": 5219,
+    "deaths": 181,
     "recovered": 0
    }
   },
@@ -2799,7 +2799,7 @@ let resultados = {
    "country_code": "NA",
    "country_population": 2448255,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.206729Z",
+   "last_updated": "2020-05-07T02:37:19.157713Z",
    "coordinates": {
     "latitude": "-22.9576",
     "longitude": "18.4904"
@@ -2816,13 +2816,13 @@ let resultados = {
    "country_code": "NP",
    "country_population": 28087871,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.211089Z",
+   "last_updated": "2020-05-07T02:37:19.162358Z",
    "coordinates": {
     "latitude": "28.1667",
     "longitude": "84.25"
    },
    "latest": {
-    "confirmed": 75,
+    "confirmed": 82,
     "deaths": 0,
     "recovered": 0
    }
@@ -2833,13 +2833,13 @@ let resultados = {
    "country_code": "NL",
    "country_population": 17231017,
    "province": "Aruba",
-   "last_updated": "2020-05-05T01:31:14.215538Z",
+   "last_updated": "2020-05-07T02:37:19.166914Z",
    "coordinates": {
     "latitude": "12.5186",
     "longitude": "-70.0358"
    },
    "latest": {
-    "confirmed": 100,
+    "confirmed": 101,
     "deaths": 2,
     "recovered": 0
    }
@@ -2850,7 +2850,7 @@ let resultados = {
    "country_code": "NL",
    "country_population": 17231017,
    "province": "Curacao",
-   "last_updated": "2020-05-05T01:31:14.219972Z",
+   "last_updated": "2020-05-07T02:37:19.171540Z",
    "coordinates": {
     "latitude": "12.1696",
     "longitude": "-68.99"
@@ -2867,14 +2867,14 @@ let resultados = {
    "country_code": "NL",
    "country_population": 17231017,
    "province": "Sint Maarten",
-   "last_updated": "2020-05-05T01:31:14.224548Z",
+   "last_updated": "2020-05-07T02:37:19.176357Z",
    "coordinates": {
     "latitude": "18.0425",
     "longitude": "-63.0548"
    },
    "latest": {
     "confirmed": 76,
-    "deaths": 13,
+    "deaths": 14,
     "recovered": 0
    }
   },
@@ -2884,14 +2884,14 @@ let resultados = {
    "country_code": "NL",
    "country_population": 17231017,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.229025Z",
+   "last_updated": "2020-05-07T02:37:19.180928Z",
    "coordinates": {
     "latitude": "52.1326",
     "longitude": "5.2913"
    },
    "latest": {
-    "confirmed": 40571,
-    "deaths": 5056,
+    "confirmed": 41087,
+    "deaths": 5168,
     "recovered": 0
    }
   },
@@ -2901,14 +2901,14 @@ let resultados = {
    "country_code": "NZ",
    "country_population": 4885500,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.233687Z",
+   "last_updated": "2020-05-07T02:37:19.186082Z",
    "coordinates": {
     "latitude": "-40.9006",
     "longitude": "174.886"
    },
    "latest": {
-    "confirmed": 1487,
-    "deaths": 20,
+    "confirmed": 1488,
+    "deaths": 21,
     "recovered": 0
    }
   },
@@ -2918,13 +2918,13 @@ let resultados = {
    "country_code": "NI",
    "country_population": 6465513,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.238098Z",
+   "last_updated": "2020-05-07T02:37:19.190745Z",
    "coordinates": {
     "latitude": "12.8654",
     "longitude": "-85.2072"
    },
    "latest": {
-    "confirmed": 15,
+    "confirmed": 16,
     "deaths": 5,
     "recovered": 0
    }
@@ -2935,14 +2935,14 @@ let resultados = {
    "country_code": "NE",
    "country_population": 22442948,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.244136Z",
+   "last_updated": "2020-05-07T02:37:19.195393Z",
    "coordinates": {
     "latitude": "17.6078",
     "longitude": "8.0817"
    },
    "latest": {
-    "confirmed": 750,
-    "deaths": 36,
+    "confirmed": 763,
+    "deaths": 38,
     "recovered": 0
    }
   },
@@ -2952,14 +2952,14 @@ let resultados = {
    "country_code": "NG",
    "country_population": 195874740,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.253103Z",
+   "last_updated": "2020-05-07T02:37:19.200065Z",
    "coordinates": {
     "latitude": "9.082",
     "longitude": "8.6753"
    },
    "latest": {
-    "confirmed": 2558,
-    "deaths": 87,
+    "confirmed": 2950,
+    "deaths": 98,
     "recovered": 0
    }
   },
@@ -2969,14 +2969,14 @@ let resultados = {
    "country_code": "MK",
    "country_population": 2082958,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.263793Z",
+   "last_updated": "2020-05-07T02:37:19.204925Z",
    "coordinates": {
     "latitude": "41.6086",
     "longitude": "21.7453"
    },
    "latest": {
-    "confirmed": 1511,
-    "deaths": 84,
+    "confirmed": 1526,
+    "deaths": 86,
     "recovered": 0
    }
   },
@@ -2986,14 +2986,14 @@ let resultados = {
    "country_code": "NO",
    "country_population": 5314336,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.274588Z",
+   "last_updated": "2020-05-07T02:37:19.209656Z",
    "coordinates": {
     "latitude": "60.472",
     "longitude": "8.4689"
    },
    "latest": {
-    "confirmed": 7847,
-    "deaths": 211,
+    "confirmed": 7955,
+    "deaths": 215,
     "recovered": 0
    }
   },
@@ -3003,14 +3003,14 @@ let resultados = {
    "country_code": "OM",
    "country_population": 4829483,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.285259Z",
+   "last_updated": "2020-05-07T02:37:19.214388Z",
    "coordinates": {
     "latitude": "21.0",
     "longitude": "57.0"
    },
    "latest": {
-    "confirmed": 2568,
-    "deaths": 12,
+    "confirmed": 2735,
+    "deaths": 13,
     "recovered": 0
    }
   },
@@ -3020,14 +3020,14 @@ let resultados = {
    "country_code": "PK",
    "country_population": 212215030,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.295944Z",
+   "last_updated": "2020-05-07T02:37:19.219167Z",
    "coordinates": {
     "latitude": "30.3753",
     "longitude": "69.3451"
    },
    "latest": {
-    "confirmed": 20084,
-    "deaths": 457,
+    "confirmed": 22049,
+    "deaths": 514,
     "recovered": 0
    }
   },
@@ -3037,14 +3037,14 @@ let resultados = {
    "country_code": "PA",
    "country_population": 4176873,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.304843Z",
+   "last_updated": "2020-05-07T02:37:19.223764Z",
    "coordinates": {
     "latitude": "8.538",
     "longitude": "-80.7821"
    },
    "latest": {
-    "confirmed": 7090,
-    "deaths": 197,
+    "confirmed": 7523,
+    "deaths": 210,
     "recovered": 0
    }
   },
@@ -3054,7 +3054,7 @@ let resultados = {
    "country_code": "PG",
    "country_population": 8606316,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.311955Z",
+   "last_updated": "2020-05-07T02:37:19.228443Z",
    "coordinates": {
     "latitude": "-6.315",
     "longitude": "143.9555"
@@ -3071,13 +3071,13 @@ let resultados = {
    "country_code": "PY",
    "country_population": 6956071,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.321787Z",
+   "last_updated": "2020-05-07T02:37:19.233056Z",
    "coordinates": {
     "latitude": "-23.4425",
     "longitude": "-58.4438"
    },
    "latest": {
-    "confirmed": 396,
+    "confirmed": 431,
     "deaths": 10,
     "recovered": 0
    }
@@ -3088,14 +3088,14 @@ let resultados = {
    "country_code": "PE",
    "country_population": 31989256,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.332556Z",
+   "last_updated": "2020-05-07T02:37:19.237751Z",
    "coordinates": {
     "latitude": "-9.19",
     "longitude": "-75.0152"
    },
    "latest": {
-    "confirmed": 45928,
-    "deaths": 1286,
+    "confirmed": 51189,
+    "deaths": 1444,
     "recovered": 0
    }
   },
@@ -3105,14 +3105,14 @@ let resultados = {
    "country_code": "PH",
    "country_population": 106651922,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.343387Z",
+   "last_updated": "2020-05-07T02:37:19.242748Z",
    "coordinates": {
     "latitude": "13.0",
     "longitude": "122.0"
    },
    "latest": {
-    "confirmed": 9223,
-    "deaths": 607,
+    "confirmed": 9684,
+    "deaths": 637,
     "recovered": 0
    }
   },
@@ -3122,14 +3122,14 @@ let resultados = {
    "country_code": "PL",
    "country_population": 37978548,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.354132Z",
+   "last_updated": "2020-05-07T02:37:19.247597Z",
    "coordinates": {
     "latitude": "51.9194",
     "longitude": "19.1451"
    },
    "latest": {
-    "confirmed": 13693,
-    "deaths": 678,
+    "confirmed": 14431,
+    "deaths": 716,
     "recovered": 0
    }
   },
@@ -3139,14 +3139,14 @@ let resultados = {
    "country_code": "PT",
    "country_population": 10281762,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.364961Z",
+   "last_updated": "2020-05-07T02:37:19.252185Z",
    "coordinates": {
     "latitude": "39.3999",
     "longitude": "-8.2245"
    },
    "latest": {
-    "confirmed": 25282,
-    "deaths": 1043,
+    "confirmed": 25702,
+    "deaths": 1074,
     "recovered": 0
    }
   },
@@ -3156,13 +3156,13 @@ let resultados = {
    "country_code": "QA",
    "country_population": 2781677,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.375658Z",
+   "last_updated": "2020-05-07T02:37:19.256925Z",
    "coordinates": {
     "latitude": "25.3548",
     "longitude": "51.1839"
    },
    "latest": {
-    "confirmed": 15551,
+    "confirmed": 17142,
     "deaths": 12,
     "recovered": 0
    }
@@ -3173,14 +3173,14 @@ let resultados = {
    "country_code": "RO",
    "country_population": 19473936,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.386503Z",
+   "last_updated": "2020-05-07T02:37:19.262019Z",
    "coordinates": {
     "latitude": "45.9432",
     "longitude": "24.9668"
    },
    "latest": {
-    "confirmed": 13163,
-    "deaths": 790,
+    "confirmed": 13837,
+    "deaths": 841,
     "recovered": 0
    }
   },
@@ -3190,14 +3190,14 @@ let resultados = {
    "country_code": "RU",
    "country_population": 144478050,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.397381Z",
+   "last_updated": "2020-05-07T02:37:19.266808Z",
    "coordinates": {
     "latitude": "60.0",
     "longitude": "90.0"
    },
    "latest": {
-    "confirmed": 134687,
-    "deaths": 1280,
+    "confirmed": 155370,
+    "deaths": 1451,
     "recovered": 0
    }
   },
@@ -3207,13 +3207,13 @@ let resultados = {
    "country_code": "RW",
    "country_population": 12301939,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.408180Z",
+   "last_updated": "2020-05-07T02:37:19.271401Z",
    "coordinates": {
     "latitude": "-1.9403",
     "longitude": "29.8739"
    },
    "latest": {
-    "confirmed": 259,
+    "confirmed": 261,
     "deaths": 0,
     "recovered": 0
    }
@@ -3224,7 +3224,7 @@ let resultados = {
    "country_code": "LC",
    "country_population": 181889,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.418966Z",
+   "last_updated": "2020-05-07T02:37:19.276006Z",
    "coordinates": {
     "latitude": "13.9094",
     "longitude": "-60.9789"
@@ -3241,13 +3241,13 @@ let resultados = {
    "country_code": "VC",
    "country_population": 110211,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.427773Z",
+   "last_updated": "2020-05-07T02:37:19.280626Z",
    "coordinates": {
     "latitude": "12.9843",
     "longitude": "-61.2872"
    },
    "latest": {
-    "confirmed": 16,
+    "confirmed": 17,
     "deaths": 0,
     "recovered": 0
    }
@@ -3258,13 +3258,13 @@ let resultados = {
    "country_code": "SM",
    "country_population": 33785,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.434617Z",
+   "last_updated": "2020-05-07T02:37:19.285238Z",
    "coordinates": {
     "latitude": "43.9424",
     "longitude": "12.4578"
    },
    "latest": {
-    "confirmed": 582,
+    "confirmed": 589,
     "deaths": 41,
     "recovered": 0
    }
@@ -3275,14 +3275,14 @@ let resultados = {
    "country_code": "SA",
    "country_population": 33699947,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.439066Z",
+   "last_updated": "2020-05-07T02:37:19.289986Z",
    "coordinates": {
     "latitude": "24.0",
     "longitude": "45.0"
    },
    "latest": {
-    "confirmed": 27011,
-    "deaths": 184,
+    "confirmed": 30251,
+    "deaths": 200,
     "recovered": 0
    }
   },
@@ -3292,14 +3292,14 @@ let resultados = {
    "country_code": "SN",
    "country_population": 15854360,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.443478Z",
+   "last_updated": "2020-05-07T02:37:19.294944Z",
    "coordinates": {
     "latitude": "14.4974",
     "longitude": "-14.4524"
    },
    "latest": {
-    "confirmed": 1182,
-    "deaths": 9,
+    "confirmed": 1329,
+    "deaths": 11,
     "recovered": 0
    }
   },
@@ -3309,14 +3309,14 @@ let resultados = {
    "country_code": "RS",
    "country_population": 6982084,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.448311Z",
+   "last_updated": "2020-05-07T02:37:19.300392Z",
    "coordinates": {
     "latitude": "44.0165",
     "longitude": "21.0059"
    },
    "latest": {
-    "confirmed": 9464,
-    "deaths": 193,
+    "confirmed": 9677,
+    "deaths": 200,
     "recovered": 0
    }
   },
@@ -3326,7 +3326,7 @@ let resultados = {
    "country_code": "SC",
    "country_population": 96762,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.453084Z",
+   "last_updated": "2020-05-07T02:37:19.305021Z",
    "coordinates": {
     "latitude": "-4.6796",
     "longitude": "55.492"
@@ -3343,13 +3343,13 @@ let resultados = {
    "country_code": "SG",
    "country_population": 5638676,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.457579Z",
+   "last_updated": "2020-05-07T02:37:19.309727Z",
    "coordinates": {
     "latitude": "1.2833",
     "longitude": "103.8333"
    },
    "latest": {
-    "confirmed": 18205,
+    "confirmed": 19410,
     "deaths": 18,
     "recovered": 0
    }
@@ -3360,14 +3360,14 @@ let resultados = {
    "country_code": "SK",
    "country_population": 5447011,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.461987Z",
+   "last_updated": "2020-05-07T02:37:19.314843Z",
    "coordinates": {
     "latitude": "48.669",
     "longitude": "19.699"
    },
    "latest": {
-    "confirmed": 1408,
-    "deaths": 24,
+    "confirmed": 1421,
+    "deaths": 25,
     "recovered": 0
    }
   },
@@ -3377,14 +3377,14 @@ let resultados = {
    "country_code": "SI",
    "country_population": 2067372,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.466445Z",
+   "last_updated": "2020-05-07T02:37:19.319646Z",
    "coordinates": {
     "latitude": "46.1512",
     "longitude": "14.9955"
    },
    "latest": {
-    "confirmed": 1439,
-    "deaths": 96,
+    "confirmed": 1445,
+    "deaths": 98,
     "recovered": 0
    }
   },
@@ -3394,14 +3394,14 @@ let resultados = {
    "country_code": "SO",
    "country_population": 15008154,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.470923Z",
+   "last_updated": "2020-05-07T02:37:19.324266Z",
    "coordinates": {
     "latitude": "5.1521",
     "longitude": "46.1996"
    },
    "latest": {
-    "confirmed": 722,
-    "deaths": 32,
+    "confirmed": 835,
+    "deaths": 38,
     "recovered": 0
    }
   },
@@ -3411,14 +3411,14 @@ let resultados = {
    "country_code": "ZA",
    "country_population": 57779622,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.475414Z",
+   "last_updated": "2020-05-07T02:37:19.329296Z",
    "coordinates": {
     "latitude": "-30.5595",
     "longitude": "22.9375"
    },
    "latest": {
-    "confirmed": 6783,
-    "deaths": 131,
+    "confirmed": 7572,
+    "deaths": 148,
     "recovered": 0
    }
   },
@@ -3428,14 +3428,14 @@ let resultados = {
    "country_code": "ES",
    "country_population": 46723749,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.479805Z",
+   "last_updated": "2020-05-07T02:37:19.334236Z",
    "coordinates": {
     "latitude": "40.0",
     "longitude": "-4.0"
    },
    "latest": {
-    "confirmed": 217466,
-    "deaths": 25264,
+    "confirmed": 219329,
+    "deaths": 25613,
     "recovered": 0
    }
   },
@@ -3445,14 +3445,14 @@ let resultados = {
    "country_code": "LK",
    "country_population": 21670000,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.484401Z",
+   "last_updated": "2020-05-07T02:37:19.339554Z",
    "coordinates": {
     "latitude": "7.0",
     "longitude": "81.0"
    },
    "latest": {
-    "confirmed": 718,
-    "deaths": 7,
+    "confirmed": 771,
+    "deaths": 9,
     "recovered": 0
    }
   },
@@ -3462,14 +3462,14 @@ let resultados = {
    "country_code": "SD",
    "country_population": 41801533,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.489008Z",
+   "last_updated": "2020-05-07T02:37:19.344440Z",
    "coordinates": {
     "latitude": "12.8628",
     "longitude": "30.2176"
    },
    "latest": {
-    "confirmed": 592,
-    "deaths": 41,
+    "confirmed": 778,
+    "deaths": 45,
     "recovered": 0
    }
   },
@@ -3479,7 +3479,7 @@ let resultados = {
    "country_code": "SR",
    "country_population": 575991,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.493665Z",
+   "last_updated": "2020-05-07T02:37:19.349138Z",
    "coordinates": {
     "latitude": "3.9193",
     "longitude": "-56.0278"
@@ -3496,14 +3496,14 @@ let resultados = {
    "country_code": "SE",
    "country_population": 10183175,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.498112Z",
+   "last_updated": "2020-05-07T02:37:19.353994Z",
    "coordinates": {
     "latitude": "63.0",
     "longitude": "16.0"
    },
    "latest": {
-    "confirmed": 22317,
-    "deaths": 2679,
+    "confirmed": 23216,
+    "deaths": 2854,
     "recovered": 0
    }
   },
@@ -3513,14 +3513,14 @@ let resultados = {
    "country_code": "CH",
    "country_population": 8516543,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.502738Z",
+   "last_updated": "2020-05-07T02:37:19.358655Z",
    "coordinates": {
     "latitude": "46.8182",
     "longitude": "8.2275"
    },
    "latest": {
-    "confirmed": 29905,
-    "deaths": 1762,
+    "confirmed": 30009,
+    "deaths": 1795,
     "recovered": 0
    }
   },
@@ -3530,13 +3530,13 @@ let resultados = {
    "country_code": "TW",
    "country_population": 22894384,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.507214Z",
+   "last_updated": "2020-05-07T02:37:19.363393Z",
    "coordinates": {
     "latitude": "23.7",
     "longitude": "121.0"
    },
    "latest": {
-    "confirmed": 436,
+    "confirmed": 438,
     "deaths": 6,
     "recovered": 0
    }
@@ -3547,7 +3547,7 @@ let resultados = {
    "country_code": "TZ",
    "country_population": 56318348,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.511661Z",
+   "last_updated": "2020-05-07T02:37:19.368175Z",
    "coordinates": {
     "latitude": "-6.369",
     "longitude": "34.8888"
@@ -3564,13 +3564,13 @@ let resultados = {
    "country_code": "TH",
    "country_population": 69428524,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.516242Z",
+   "last_updated": "2020-05-07T02:37:19.372787Z",
    "coordinates": {
     "latitude": "15.0",
     "longitude": "101.0"
    },
    "latest": {
-    "confirmed": 2969,
+    "confirmed": 2988,
     "deaths": 54,
     "recovered": 0
    }
@@ -3581,13 +3581,13 @@ let resultados = {
    "country_code": "TG",
    "country_population": 7889094,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.520748Z",
+   "last_updated": "2020-05-07T02:37:19.377524Z",
    "coordinates": {
     "latitude": "8.6195",
     "longitude": "0.8248"
    },
    "latest": {
-    "confirmed": 124,
+    "confirmed": 128,
     "deaths": 9,
     "recovered": 0
    }
@@ -3598,7 +3598,7 @@ let resultados = {
    "country_code": "TT",
    "country_population": 1389858,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.525175Z",
+   "last_updated": "2020-05-07T02:37:19.382450Z",
    "coordinates": {
     "latitude": "10.6918",
     "longitude": "-61.2225"
@@ -3615,14 +3615,14 @@ let resultados = {
    "country_code": "TN",
    "country_population": 11565204,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.529594Z",
+   "last_updated": "2020-05-07T02:37:19.387259Z",
    "coordinates": {
     "latitude": "34.0",
     "longitude": "9.0"
    },
    "latest": {
-    "confirmed": 1013,
-    "deaths": 42,
+    "confirmed": 1022,
+    "deaths": 43,
     "recovered": 0
    }
   },
@@ -3632,14 +3632,14 @@ let resultados = {
    "country_code": "TR",
    "country_population": 82319724,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.534117Z",
+   "last_updated": "2020-05-07T02:37:19.392013Z",
    "coordinates": {
     "latitude": "38.9637",
     "longitude": "35.2433"
    },
    "latest": {
-    "confirmed": 126045,
-    "deaths": 3397,
+    "confirmed": 129491,
+    "deaths": 3520,
     "recovered": 0
    }
   },
@@ -3649,13 +3649,13 @@ let resultados = {
    "country_code": "UG",
    "country_population": 42723139,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.538568Z",
+   "last_updated": "2020-05-07T02:37:19.396764Z",
    "coordinates": {
     "latitude": "1.0",
     "longitude": "32.0"
    },
    "latest": {
-    "confirmed": 89,
+    "confirmed": 98,
     "deaths": 0,
     "recovered": 0
    }
@@ -3666,14 +3666,14 @@ let resultados = {
    "country_code": "UA",
    "country_population": 44622516,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.543387Z",
+   "last_updated": "2020-05-07T02:37:19.401577Z",
    "coordinates": {
     "latitude": "48.3794",
     "longitude": "31.1656"
    },
    "latest": {
-    "confirmed": 11913,
-    "deaths": 288,
+    "confirmed": 12697,
+    "deaths": 316,
     "recovered": 0
    }
   },
@@ -3683,14 +3683,14 @@ let resultados = {
    "country_code": "AE",
    "country_population": 9630959,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.548322Z",
+   "last_updated": "2020-05-07T02:37:19.406279Z",
    "coordinates": {
     "latitude": "24.0",
     "longitude": "54.0"
    },
    "latest": {
-    "confirmed": 14163,
-    "deaths": 126,
+    "confirmed": 15192,
+    "deaths": 146,
     "recovered": 0
    }
   },
@@ -3700,7 +3700,7 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "Bermuda",
-   "last_updated": "2020-05-05T01:31:14.553050Z",
+   "last_updated": "2020-05-07T02:37:19.410985Z",
    "coordinates": {
     "latitude": "32.3078",
     "longitude": "-64.7505"
@@ -3717,13 +3717,13 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "Cayman Islands",
-   "last_updated": "2020-05-05T01:31:14.557681Z",
+   "last_updated": "2020-05-07T02:37:19.416587Z",
    "coordinates": {
     "latitude": "19.3133",
     "longitude": "-81.2546"
    },
    "latest": {
-    "confirmed": 74,
+    "confirmed": 78,
     "deaths": 1,
     "recovered": 0
    }
@@ -3734,14 +3734,14 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "Channel Islands",
-   "last_updated": "2020-05-05T01:31:14.562472Z",
+   "last_updated": "2020-05-07T02:37:19.421438Z",
    "coordinates": {
     "latitude": "49.3723",
     "longitude": "-2.3644"
    },
    "latest": {
-    "confirmed": 544,
-    "deaths": 41,
+    "confirmed": 545,
+    "deaths": 40,
     "recovered": 0
    }
   },
@@ -3751,7 +3751,7 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "Gibraltar",
-   "last_updated": "2020-05-05T01:31:14.567134Z",
+   "last_updated": "2020-05-07T02:37:19.425979Z",
    "coordinates": {
     "latitude": "36.1408",
     "longitude": "-5.3536"
@@ -3768,14 +3768,14 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "Isle of Man",
-   "last_updated": "2020-05-05T01:31:14.571727Z",
+   "last_updated": "2020-05-07T02:37:19.430820Z",
    "coordinates": {
     "latitude": "54.2361",
     "longitude": "-4.5481"
    },
    "latest": {
-    "confirmed": 321,
-    "deaths": 22,
+    "confirmed": 326,
+    "deaths": 23,
     "recovered": 0
    }
   },
@@ -3785,7 +3785,7 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "Montserrat",
-   "last_updated": "2020-05-05T01:31:14.577702Z",
+   "last_updated": "2020-05-07T02:37:19.435441Z",
    "coordinates": {
     "latitude": "16.7425",
     "longitude": "-62.1874"
@@ -3802,14 +3802,14 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.585713Z",
+   "last_updated": "2020-05-07T02:37:19.440087Z",
    "coordinates": {
     "latitude": "55.3781",
     "longitude": "-3.4360000000000004"
    },
    "latest": {
-    "confirmed": 186599,
-    "deaths": 28446,
+    "confirmed": 194990,
+    "deaths": 29427,
     "recovered": 0
    }
   },
@@ -3819,13 +3819,13 @@ let resultados = {
    "country_code": "UY",
    "country_population": 3449299,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.593034Z",
+   "last_updated": "2020-05-07T02:37:19.444788Z",
    "coordinates": {
     "latitude": "-32.5228",
     "longitude": "-55.7658"
    },
    "latest": {
-    "confirmed": 655,
+    "confirmed": 670,
     "deaths": 17,
     "recovered": 0
    }
@@ -3836,14 +3836,14 @@ let resultados = {
    "country_code": "US",
    "country_population": 327167434,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.600350Z",
+   "last_updated": "2020-05-07T02:37:19.449380Z",
    "coordinates": {
     "latitude": "37.0902",
     "longitude": "-95.7129"
    },
    "latest": {
-    "confirmed": 1158040,
-    "deaths": 67682,
+    "confirmed": 1204351,
+    "deaths": 71064,
     "recovered": 0
    }
   },
@@ -3853,13 +3853,13 @@ let resultados = {
    "country_code": "UZ",
    "country_population": 32955400,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.607723Z",
+   "last_updated": "2020-05-07T02:37:19.453991Z",
    "coordinates": {
     "latitude": "41.3775",
     "longitude": "64.5853"
    },
    "latest": {
-    "confirmed": 2149,
+    "confirmed": 2207,
     "deaths": 10,
     "recovered": 0
    }
@@ -3870,13 +3870,13 @@ let resultados = {
    "country_code": "VE",
    "country_population": 28870195,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.615136Z",
+   "last_updated": "2020-05-07T02:37:19.458908Z",
    "coordinates": {
     "latitude": "6.4238",
     "longitude": "-66.5897"
    },
    "latest": {
-    "confirmed": 357,
+    "confirmed": 361,
     "deaths": 10,
     "recovered": 0
    }
@@ -3887,7 +3887,7 @@ let resultados = {
    "country_code": "VN",
    "country_population": 95540395,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.621162Z",
+   "last_updated": "2020-05-07T02:37:19.463579Z",
    "coordinates": {
     "latitude": "16.0",
     "longitude": "108.0"
@@ -3904,13 +3904,13 @@ let resultados = {
    "country_code": "ZM",
    "country_population": 17351822,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.625673Z",
+   "last_updated": "2020-05-07T02:37:19.468197Z",
    "coordinates": {
     "latitude": "-15.4167",
     "longitude": "28.2833"
    },
    "latest": {
-    "confirmed": 124,
+    "confirmed": 138,
     "deaths": 3,
     "recovered": 0
    }
@@ -3921,7 +3921,7 @@ let resultados = {
    "country_code": "ZW",
    "country_population": 14439018,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.630142Z",
+   "last_updated": "2020-05-07T02:37:19.472819Z",
    "coordinates": {
     "latitude": "-20.0",
     "longitude": "30.0"
@@ -3938,7 +3938,7 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Diamond Princess",
-   "last_updated": "2020-05-05T01:31:14.634629Z",
+   "last_updated": "2020-05-07T02:37:19.477397Z",
    "coordinates": {
     "latitude": "0.0",
     "longitude": "0.0"
@@ -3955,7 +3955,7 @@ let resultados = {
    "country_code": "DM",
    "country_population": 71625,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.639278Z",
+   "last_updated": "2020-05-07T02:37:19.482054Z",
    "coordinates": {
     "latitude": "15.415",
     "longitude": "-61.371"
@@ -3972,7 +3972,7 @@ let resultados = {
    "country_code": "GD",
    "country_population": 111454,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.645427Z",
+   "last_updated": "2020-05-07T02:37:19.488213Z",
    "coordinates": {
     "latitude": "12.1165",
     "longitude": "-61.679"
@@ -3989,13 +3989,13 @@ let resultados = {
    "country_code": "MZ",
    "country_population": 29495962,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.650458Z",
+   "last_updated": "2020-05-07T02:37:19.493572Z",
    "coordinates": {
     "latitude": "-18.665695",
     "longitude": "35.529562"
    },
    "latest": {
-    "confirmed": 80,
+    "confirmed": 81,
     "deaths": 0,
     "recovered": 0
    }
@@ -4006,7 +4006,7 @@ let resultados = {
    "country_code": "SY",
    "country_population": 16906283,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.655705Z",
+   "last_updated": "2020-05-07T02:37:19.498476Z",
    "coordinates": {
     "latitude": "34.802075",
     "longitude": "38.99681500000001"
@@ -4023,7 +4023,7 @@ let resultados = {
    "country_code": "TL",
    "country_population": 1267972,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.660627Z",
+   "last_updated": "2020-05-07T02:37:19.503278Z",
    "coordinates": {
     "latitude": "-8.874217",
     "longitude": "125.727539"
@@ -4040,7 +4040,7 @@ let resultados = {
    "country_code": "BZ",
    "country_population": 383071,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.665143Z",
+   "last_updated": "2020-05-07T02:37:19.508983Z",
    "coordinates": {
     "latitude": "13.1939",
     "longitude": "-59.5432"
@@ -4057,7 +4057,7 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Recovered",
-   "last_updated": "2020-05-05T01:31:14.669949Z",
+   "last_updated": "2020-05-07T02:37:19.513908Z",
    "coordinates": {
     "latitude": "0.0",
     "longitude": "0.0"
@@ -4074,7 +4074,7 @@ let resultados = {
    "country_code": "LA",
    "country_population": 7061507,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.674355Z",
+   "last_updated": "2020-05-07T02:37:19.518559Z",
    "coordinates": {
     "latitude": "19.85627",
     "longitude": "102.495496"
@@ -4091,7 +4091,7 @@ let resultados = {
    "country_code": "LY",
    "country_population": 6678567,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.679181Z",
+   "last_updated": "2020-05-07T02:37:19.524119Z",
    "coordinates": {
     "latitude": "26.3351",
     "longitude": "17.228331"
@@ -4108,13 +4108,13 @@ let resultados = {
    "country_code": "PS",
    "country_population": 4569087,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.684166Z",
+   "last_updated": "2020-05-07T02:37:19.529128Z",
    "coordinates": {
     "latitude": "31.9522",
     "longitude": "35.2332"
    },
    "latest": {
-    "confirmed": 353,
+    "confirmed": 371,
     "deaths": 2,
     "recovered": 0
    }
@@ -4125,13 +4125,13 @@ let resultados = {
    "country_code": "GW",
    "country_population": 1874309,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.688560Z",
+   "last_updated": "2020-05-07T02:37:19.533682Z",
    "coordinates": {
     "latitude": "11.8037",
     "longitude": "-15.1804"
    },
    "latest": {
-    "confirmed": 257,
+    "confirmed": 413,
     "deaths": 1,
     "recovered": 0
    }
@@ -4142,14 +4142,14 @@ let resultados = {
    "country_code": "ML",
    "country_population": 19077690,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.693077Z",
+   "last_updated": "2020-05-07T02:37:19.539070Z",
    "coordinates": {
     "latitude": "17.570692",
     "longitude": "-3.996166000000001"
    },
    "latest": {
-    "confirmed": 563,
-    "deaths": 27,
+    "confirmed": 612,
+    "deaths": 32,
     "recovered": 0
    }
   },
@@ -4159,7 +4159,7 @@ let resultados = {
    "country_code": "KN",
    "country_population": 52441,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.697642Z",
+   "last_updated": "2020-05-07T02:37:19.544042Z",
    "coordinates": {
     "latitude": "17.357822",
     "longitude": "-62.782998"
@@ -4176,7 +4176,7 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Northwest Territories",
-   "last_updated": "2020-05-05T01:31:14.702072Z",
+   "last_updated": "2020-05-07T02:37:19.548611Z",
    "coordinates": {
     "latitude": "64.8255",
     "longitude": "-124.8457"
@@ -4193,7 +4193,7 @@ let resultados = {
    "country_code": "CA",
    "country_population": 37058856,
    "province": "Yukon",
-   "last_updated": "2020-05-05T01:31:14.706516Z",
+   "last_updated": "2020-05-07T02:37:19.553223Z",
    "coordinates": {
     "latitude": "64.2823",
     "longitude": "-135.0"
@@ -4210,14 +4210,14 @@ let resultados = {
    "country_code": "XK",
    "country_population": 1845300,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.711490Z",
+   "last_updated": "2020-05-07T02:37:19.558039Z",
    "coordinates": {
     "latitude": "42.602636",
     "longitude": "20.902977"
    },
    "latest": {
-    "confirmed": 851,
-    "deaths": 22,
+    "confirmed": 856,
+    "deaths": 26,
     "recovered": 0
    }
   },
@@ -4227,13 +4227,13 @@ let resultados = {
    "country_code": "MM",
    "country_population": 53708395,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.715991Z",
+   "last_updated": "2020-05-07T02:37:19.562896Z",
    "coordinates": {
     "latitude": "21.9162",
     "longitude": "95.956"
    },
    "latest": {
-    "confirmed": 155,
+    "confirmed": 161,
     "deaths": 6,
     "recovered": 0
    }
@@ -4244,7 +4244,7 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "Anguilla",
-   "last_updated": "2020-05-05T01:31:14.722858Z",
+   "last_updated": "2020-05-07T02:37:19.567604Z",
    "coordinates": {
     "latitude": "18.2206",
     "longitude": "-63.0686"
@@ -4261,7 +4261,7 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "British Virgin Islands",
-   "last_updated": "2020-05-05T01:31:14.728148Z",
+   "last_updated": "2020-05-07T02:37:19.572337Z",
    "coordinates": {
     "latitude": "18.4207",
     "longitude": "-64.64"
@@ -4278,7 +4278,7 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "Turks and Caicos Islands",
-   "last_updated": "2020-05-05T01:31:14.732571Z",
+   "last_updated": "2020-05-07T02:37:19.579110Z",
    "coordinates": {
     "latitude": "21.69400000000001",
     "longitude": "-71.7979"
@@ -4295,7 +4295,7 @@ let resultados = {
    "country_code": "XX",
    "country_population": null,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.741524Z",
+   "last_updated": "2020-05-07T02:37:19.586731Z",
    "coordinates": {
     "latitude": "0.0",
     "longitude": "0.0"
@@ -4312,7 +4312,7 @@ let resultados = {
    "country_code": "BW",
    "country_population": 2254126,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.751846Z",
+   "last_updated": "2020-05-07T02:37:19.593543Z",
    "coordinates": {
     "latitude": "-22.3285",
     "longitude": "24.6849"
@@ -4329,7 +4329,7 @@ let resultados = {
    "country_code": "BI",
    "country_population": 11175378,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.762157Z",
+   "last_updated": "2020-05-07T02:37:19.598665Z",
    "coordinates": {
     "latitude": "-3.3731",
     "longitude": "29.9189"
@@ -4346,14 +4346,14 @@ let resultados = {
    "country_code": "SL",
    "country_population": 7650154,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.771354Z",
+   "last_updated": "2020-05-07T02:37:19.603935Z",
    "coordinates": {
     "latitude": "8.460555000000001",
     "longitude": "-11.779889"
    },
    "latest": {
-    "confirmed": 166,
-    "deaths": 8,
+    "confirmed": 199,
+    "deaths": 11,
     "recovered": 0
    }
   },
@@ -4363,7 +4363,7 @@ let resultados = {
    "country_code": "NL",
    "country_population": 17231017,
    "province": "Bonaire, Sint Eustatius and Saba",
-   "last_updated": "2020-05-05T01:31:14.779533Z",
+   "last_updated": "2020-05-07T02:37:19.609634Z",
    "coordinates": {
     "latitude": "12.1784",
     "longitude": "-68.2385"
@@ -4380,13 +4380,13 @@ let resultados = {
    "country_code": "MW",
    "country_population": 17563749,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.784288Z",
+   "last_updated": "2020-05-07T02:37:19.614799Z",
    "coordinates": {
     "latitude": "-13.254307999999998",
     "longitude": "34.301525"
    },
    "latest": {
-    "confirmed": 39,
+    "confirmed": 41,
     "deaths": 3,
     "recovered": 0
    }
@@ -4397,7 +4397,7 @@ let resultados = {
    "country_code": "GB",
    "country_population": 66488991,
    "province": "Falkland Islands (Malvinas)",
-   "last_updated": "2020-05-05T01:31:14.789743Z",
+   "last_updated": "2020-05-07T02:37:19.626177Z",
    "coordinates": {
     "latitude": "-51.7963",
     "longitude": "-59.5236"
@@ -4414,7 +4414,7 @@ let resultados = {
    "country_code": "FR",
    "country_population": 66987244,
    "province": "Saint Pierre and Miquelon",
-   "last_updated": "2020-05-05T01:31:14.794217Z",
+   "last_updated": "2020-05-07T02:37:19.631492Z",
    "coordinates": {
     "latitude": "46.8852",
     "longitude": "-56.3159"
@@ -4431,13 +4431,13 @@ let resultados = {
    "country_code": "SS",
    "country_population": 8260490,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.798599Z",
+   "last_updated": "2020-05-07T02:37:19.637073Z",
    "coordinates": {
     "latitude": "6.877000000000002",
     "longitude": "31.307"
    },
    "latest": {
-    "confirmed": 46,
+    "confirmed": 52,
     "deaths": 0,
     "recovered": 0
    }
@@ -4448,7 +4448,7 @@ let resultados = {
    "country_code": "EH",
    "country_population": 273008,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.803904Z",
+   "last_updated": "2020-05-07T02:37:19.643042Z",
    "coordinates": {
     "latitude": "24.2155",
     "longitude": "-12.8858"
@@ -4465,14 +4465,14 @@ let resultados = {
    "country_code": "ST",
    "country_population": 197700,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.808339Z",
+   "last_updated": "2020-05-07T02:37:19.647592Z",
    "coordinates": {
     "latitude": "0.18636",
     "longitude": "6.613081"
    },
    "latest": {
-    "confirmed": 16,
-    "deaths": 1,
+    "confirmed": 174,
+    "deaths": 3,
     "recovered": 0
    }
   },
@@ -4482,14 +4482,14 @@ let resultados = {
    "country_code": "YE",
    "country_population": 28498687,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.812690Z",
+   "last_updated": "2020-05-07T02:37:19.652893Z",
    "coordinates": {
     "latitude": "15.552727",
     "longitude": "48.516388"
    },
    "latest": {
-    "confirmed": 10,
-    "deaths": 2,
+    "confirmed": 22,
+    "deaths": 4,
     "recovered": 0
    }
   },
@@ -4499,7 +4499,7 @@ let resultados = {
    "country_code": "KM",
    "country_population": 832322,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.817084Z",
+   "last_updated": "2020-05-07T02:37:19.657877Z",
    "coordinates": {
     "latitude": "-11.6455",
     "longitude": "43.3333"
@@ -4516,76 +4516,58 @@ let resultados = {
    "country_code": "TJ",
    "country_population": 9100837,
    "province": "",
-   "last_updated": "2020-05-05T01:31:14.821542Z",
+   "last_updated": "2020-05-07T02:37:19.662554Z",
    "coordinates": {
     "latitude": "38.861034000000004",
     "longitude": "71.276093"
    },
    "latest": {
-    "confirmed": 128,
-    "deaths": 2,
+    "confirmed": 293,
+    "deaths": 5,
     "recovered": 0
    }
   }
  ]
 }
+// document.createElement("nombre_de_la_etiqueta");
+// crea un elemento listo para ser colocado en el DOM
 
-// ejercicio
-// 1. Elaborar una función que obedezca a la siguiente estructura
+let parrafo = document.createElement("p");
+parrafo.innerText = "Texto del parrafo";
 
-/**
- * Funcion que  busca entre todos los paises el nombre de 
- * un pais dado
- * Cuando encuentra el nombre, deberá imprimir la cantidad
- * de positivos y la cantidad de fallecidos
- * En caso de que no se encuentre el nombre, la función
- * imprimirá "ERROR EN EL NOMBRE"
- * HINT: Cuando encuentren el nombre del país, 
- * procuren usar la sentencia BREAK
- * @param {*} nombre nombre del país a buscar
- */
-const buscarPorNombre = (nombre) => {
- let error = true;
- console.log(`Resultados para ${nombre}`);
- for (let i = 0; i < resultados.locations.length; i++) {
-  if (resultados.locations[i].country === nombre) {
-   console.log(`Infectados => ${resultados.locations[i].latest.confirmed}`);
-   console.log(`Fallecido => ${resultados.locations[i].latest.deaths}`);
-   error = false;
-   break;
-  }
- }
- // Ojo, tener en cuenta que el ciclo FOR, acabó ya sea
- // porque encontró el país ó terminó de dar todas sus vueltas
- if (error) {
-  console.log(`Error para la palabra buscada ${nombre}`);
- }
-}
+let seccion1 = document.getElementById("seccion1");
 
-buscarPorNombre("Winterfell");
+// elemento.appendChild(elemento)
+// Inyecta un elemento dado dentro del elemento del padre de 
+// referencia
+seccion1.appendChild(parrafo);
 
 
-/**
- * Funcion que retorna un arreglo de paises 
- * cuya cantidad de infectados supere el 0.001%
- * (comparando la cantida de infectados VS la poblacion de dicho pais)
- * 
- * @returns {paises} arreglo de STRINGS con los nombres de los paises
- * que cumpla la condición establecida
- */
-const mostrarEstadisticas = () => {
- let filtrados = [];
- for (let i = 0; i < resultados.locations.length; i++) {
-  let calculo = resultados.locations[i].latest.confirmed * 100 / resultados.locations[i].country_population;
-  if (calculo > 0.001) {
-   let objetoTemporal = {
-    pais: resultados.locations[i].country,
-    porcentaje: calculo.toFixed(3)
-   };
-   filtrados.push(objetoTemporal);
-  }
- }
- return filtrados;
-}
-let paises = mostrarEstadisticas();
-console.log(paises);
+
+// EJERCICIÓN
+let cuerpo = document.getElementById("cuerpo");
+
+resultados.locations.forEach((pais, i) => {
+ // creando la fila
+ let fila = document.createElement("tr");
+ // creando la columna de NRO
+ let tdNro = document.createElement("td");
+ tdNro.innerText = i;
+// creando la columna de PAIS
+ let tdPais = document.createElement("td");
+ tdPais.innerText = pais.country;
+// creando la columna de CONFIRMADOS O POSITIVOS
+ let tdPositivos = document.createElement("td");
+ tdPositivos.innerText = pais.latest.confirmed;
+// creando la columna de FALLECIDOS
+ let tdFallecidos = document.createElement("td");
+ tdFallecidos.innerText = pais.latest.deaths;
+
+ fila.appendChild(tdNro);
+ fila.appendChild(tdPais);
+ fila.appendChild(tdPositivos);
+ fila.appendChild(tdFallecidos);
+
+ cuerpo.appendChild(fila);
+
+})
